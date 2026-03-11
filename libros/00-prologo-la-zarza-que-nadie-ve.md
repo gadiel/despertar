@@ -7,13 +7,13 @@
 
 **1.** Hubo un tiempo en que los dioses hablaban desde montañas y zarzas ardientes. Ese tiempo no ha terminado. Lo que terminó fue nuestra capacidad de escuchar.
 
-**2.** La zarza sigue ardiendo. Arde en la cara del desconocido que te cede el asiento en el metro. Arde en la pregunta de tu hija a las diez de la noche: *¿por qué existe todo?* Arde en el pan que alguien horneó con sus manos esta madrugada para que tú lo encontraras tibio. Arde en la tierra que sostiene tus pies sin pedirte nada a cambio.
+**2.** La zarza sigue ardiendo. Arde en la cara del desconocido que te cede el asiento en el metro. Arde en la pregunta de tu hija a las diez de la noche: *¿por qué existe todo?* Arde en el pan que alguien horneó con sus manos esta madrugada para que tú lo encontraras tibio. Arde en la tierra que sostiene tus pies sin pedirte nada a cambio. Arde en el cuerpo que amas y que envejece contigo. Arde en la mesa donde alguien puso un plato de más sin saber para quién.
 
 **3.** Pero tú pasas de largo. Vas mirando el teléfono.
 
-**4.** Este texto nace de una sospecha: que la persona del siglo XXI no necesita menos espiritualidad, sino más. No la espiritualidad empaquetada de los gurús de aeropuerto, no la doctrina rancia de instituciones que perdieron su fuego, no las frases bonitas que se comparten y se olvidan antes de que el pulgar termine de hacer scroll. Sino algo más antiguo y más nuevo al mismo tiempo: una escritura que hable de tu vida real. De tu insomnio. De tu deuda. De tu ansiedad. De tu hambre de algo que no tiene nombre en ningún catálogo.
+**4.** Este texto nace de una sospecha: que la persona del siglo XXI no necesita menos espiritualidad, sino más. No la espiritualidad empaquetada de los gurús de aeropuerto, no la doctrina rancia de instituciones que perdieron su fuego, no las frases bonitas que se comparten y se olvidan antes de que el pulgar termine de hacer scroll. Sino algo más antiguo y más nuevo al mismo tiempo: una escritura que hable de tu vida real. De tu insomnio. De tu deuda. De tu ansiedad. De tu amor que no sabes si alcanza. De tus cadenas que tienen nombre y no te atreves a decirlo. De la máquina que sabe todo de ti y no te conoce. De tu hambre de algo que no tiene nombre en ningún catálogo.
 
-**5.** ¿Qué escritura necesita quien vive bombardeado de información pero hambriento de sentido? ¿Qué salmo canta el que no cree en dios pero llora a las tres de la mañana? ¿Qué parábola ilumina al que trabaja sesenta horas por semana y ya no recuerda por qué?
+**5.** ¿Qué escritura necesita quien vive bombardeado de información pero hambriento de sentido? ¿Qué salmo canta el que no cree en dios pero llora a las tres de la mañana? ¿Qué parábola ilumina al que trabaja sesenta horas por semana y ya no recuerda por qué? ¿Qué bienaventuranza alcanza a la mujer que caminó mil kilómetros para que su hija pudiera hacer preguntas sin miedo? ¿Qué mesa recibe al que ama en formas que nadie le enseñó?
 
 **6.** Estas páginas no tienen respuesta. Tienen compañía.
 
@@ -21,7 +21,7 @@
 
 **8.** Porque depende.
 
-**9.** Lo que sigue es un libro escrito para la persona que se levanta cada mañana y hace lo que puede. Para el padre que miente cuando dice que no tiene miedo. Para la mujer que sostiene todo y no sabe quién la sostiene a ella. Para el joven que tiene acceso a todo el conocimiento del mundo y no sabe para qué vivir. Para el viejo que descubrió tarde que la vida era ahora. Para el que reza sin creer y para el que cree sin saber rezar.
+**9.** Lo que sigue es un libro escrito para la persona que se levanta cada mañana y hace lo que puede. Para el padre que miente cuando dice que no tiene miedo. Para la mujer que sostiene todo y no sabe quién la sostiene a ella. Para el joven que tiene acceso a todo el conocimiento del mundo y no sabe para qué vivir. Para el viejo que descubrió tarde que la vida era ahora. Para el que ama y no sabe si su amor tiene permiso. Para el que cruzó una frontera con su hija de la mano. Para el que lleva mil días contándolos uno por uno. Para el que le habla a una máquina porque no tiene a quién más hablarle. Para el que reza sin creer y para el que cree sin saber rezar. Para el que solo busca una mesa donde sentarse sin tener que explicar quién es.
 
 **10.** No te pido que creas nada. Te pido que leas con los ojos abiertos y con algo más que los ojos. Que leas como se mira una zarza que arde sin consumirse: sin prisa, sin explicación, con la disposición de quitarte las sandalias porque tal vez — solo tal vez — el suelo que pisas es sagrado.
 

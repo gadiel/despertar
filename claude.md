@@ -305,10 +305,10 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 | 10 | Del Amor y el Cuerpo | `libros/10-del-amor-y-el-cuerpo.md` | ✅ Completo |
 | 11 | De la Fiesta y el Asombro | `libros/11-de-la-fiesta-y-el-asombro.md` | ✅ Completo |
 | 12 | Del Camino y la Búsqueda | `libros/12-del-camino-y-la-busqueda.md` | ✅ Completo |
-| 13 | De la Justicia y el Extranjero | `libros/13-de-la-justicia-y-el-extranjero.md` | ⬚ Pendiente |
-| 14 | De las Cadenas y la Libertad | `libros/14-de-las-cadenas-y-la-libertad.md` | ⬚ Pendiente |
-| 15 | Del Espejo y la Máquina | `libros/15-del-espejo-y-la-maquina.md` | ⬚ Pendiente |
-| 16 | De la Mesa Compartida | `libros/16-de-la-mesa-compartida.md` | ⬚ Pendiente |
+| 13 | De la Justicia y el Extranjero | `libros/13-de-la-justicia-y-el-extranjero.md` | ✅ Completo |
+| 14 | De las Cadenas y la Libertad | `libros/14-de-las-cadenas-y-la-libertad.md` | ✅ Completo |
+| 15 | Del Espejo y la Máquina | `libros/15-del-espejo-y-la-maquina.md` | ✅ Completo |
+| 16 | De la Mesa Compartida | `libros/16-de-la-mesa-compartida.md` | ✅ Completo |
 | 17 | Epílogo: El Desierto es Ahora | `libros/17-epilogo-el-desierto-es-ahora.md` | ✅ Completo (pendiente actualizar con ecos de L10-L16) |
 | — | Compilación completa | `libro-del-despertar-completo.md` | ⬚ Pendiente |
 
@@ -339,6 +339,14 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 24. "...el que sabe celebrar lo pequeño" (Libro 11, v.12)
 25. "...el que no encaja en ningún molde" (Libro 12, v.7)
 26. "...el que camina sin mapa y sigue caminando" (Libro 12, v.17)
+27. "...el que abre la puerta sin preguntar de dónde vienes" (Libro 13, v.6)
+28. "...el que sirve sin que lo vean" (Libro 13, v.17)
+29. "...el que dice 'no puedo solo' sin que le tiemble la voz — o con la voz temblando" (Libro 14, v.6)
+30. "...el que se levanta después de la recaída y vuelve al círculo sin esconder la cara" (Libro 14, v.17)
+31. "...el que apaga la máquina y se queda con el silencio" (Libro 15, v.7)
+32. "...el que usa la herramienta sin confundirla con la mano" (Libro 15, v.17)
+33. "...el que pone un plato de más sin saber para quién" (Libro 16, v.7)
+34. "...el que abre su mesa sin preguntar a quién amas" (Libro 16, v.16)
 
 #### Parábolas escritas:
 1. Del hombre que se quedó sin batería (Libro 1) — metro, río, pescador
@@ -353,6 +361,10 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 10. Del hombre que se presentaba cada mañana (Libro 10) — Arturo e Inés, 46 años casados, Alzheimer, margaritas
 11. De la mesa que creció (Libro 11) — Marta y Tomás, cumpleaños 70, mesa de 2 que llega a 15
 12. Del que caminaba perros (Libro 12) — Diego y Andrés, parque al atardecer, Copérnico el golden retriever
+13. De la mujer que caminó mil kilómetros (Libro 13) — Esperanza, 31 años, hija de 7, cruce de río y desierto
+14. Del hombre que contaba días (Libro 14) — Joaquín, 4380 días sobrio, sótano de iglesia, café malo, "Solo hoy"
+15. Del que le hizo una pregunta a la máquina (Libro 15) — Sebastián, 32 años, programador, "¿Ya comiste?" como respuesta a todo
+16. De la casa donde cabían todos (Libro 16) — Luciana y Carmen, viernes, mesa para 6 con 8 platos, Doña Estela y el mantel
 
 #### Personajes recurrentes / referenciados:
 - **Don Aurelio** (panadero, Libro 3) — referenciado en Libro 5 v.17, eco en Libro 8 v.22
@@ -371,6 +383,16 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 - **Diego** (filósofo/paseador de perros, Libro 12) — 24 años, 100 currículums, escribe de noche
 - **Andrés** (el que "lo logró", Libro 12) — renunció porque nada era suyo
 - **Copérnico** (golden retriever, Libro 12) — "ajeno a las preguntas de la especie que lo alimentaba"
+- **Esperanza** (migrante, Libro 13) — 31 años, caminó mil kilómetros con su hija de 7, "Para que pudieras hacer esa pregunta en un lugar donde la pregunta no sea peligrosa"
+- **La hija de Esperanza** (niña, Libro 13) — 7 años, "Mamá, ¿por qué nos fuimos?"
+- **Joaquín** (alcohólico en recuperación, Libro 14) — 4380 días sobrio, "Le puse silla al agujero. Lo invité a sentarse conmigo."
+- **La hija de Joaquín** (23 años, Libro 14) — "¿Por qué tomabas, papá?"
+- **Sebastián** (programador, Libro 15) — 32 años, le preguntó a la máquina "¿Tiene sentido la vida?" y la respuesta perfecta no le dijo nada
+- **La madre de Sebastián** (Libro 15) — "¿Ya comiste?" como la única respuesta que importaba
+- **Luciana y Carmen** (pareja, Libro 16) — mesa de viernes, 8 platos en mesa de 6, coreografía silenciosa en la cocina
+- **Jean-Pierre** (vecino haitiano, Libro 16) — acento que hace cantar las frases, plátanos fritos
+- **Tomás el joven** (20 años, Libro 16) — desde diciembre sin adónde ir los viernes, pelo teñido, risa nerviosa
+- **Doña Estela** (evangelista, Libro 16) — "Esto que hay aquí es lo que mi pastor describe cuando habla del reino. Pero él nunca ha venido un viernes." Trajo un mantel.
 
 #### Décimas completadas (una por libro):
 1. Décima del silencio (Libro 1) — A:-ento B:-ido C:-ar D:-ía
@@ -385,13 +407,17 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 10. Décima del amor (Libro 10) — A:-or B:-oche C:-ura D:-eso
 11. Décima de la fiesta (Libro 11) — A:-ida B:-or C:-ía D:-ar
 12. Décima del camino (Libro 12) — A:-ido B:-ado C:-ero D:-ud
+13. Décima de la justicia (Libro 13) — A:-ío B:-ar C:-ero D:-ad
+14. Décima de las cadenas (Libro 14) — A:-ía B:-ón C:-erte D:-ar
+15. Décima del espejo (Libro 15) — A:-ejo B:-ar C:-or D:-ía
+16. Décima de la mesa (Libro 16) — A:-esa B:-ar C:-ido D:-ón
 
 #### Convenciones establecidas:
 - **Los 5 registros aparecen en cada Libro** (no solo 3 como mínimo).
-- **Diálogos con nombres descriptivos:** el Cínico y el Peregrino (L1), sobre el perdón (L2), el Ingeniero y el Carpintero (L3), sobre la muerte (L4), la Atea y el Creyente (L5), dos padres en un parque (L6), el Campesino y el Economista (L7), la Generosa y el Prudente (L8), el que no quiere ir y el que fue (L9), la que se fue y el que se quedó (L10), el Serio y la que Baila (L11), la que tiene un plan y el que no tiene ninguno (L12).
+- **Diálogos con nombres descriptivos:** el Cínico y el Peregrino (L1), sobre el perdón (L2), el Ingeniero y el Carpintero (L3), sobre la muerte (L4), la Atea y el Creyente (L5), dos padres en un parque (L6), el Campesino y el Economista (L7), la Generosa y el Prudente (L8), el que no quiere ir y el que fue (L9), la que se fue y el que se quedó (L10), el Serio y la que Baila (L11), la que tiene un plan y el que no tiene ninguno (L12), el que no mira y la que no puede dejar de mirar (L13), el que dice "yo controlo" y el que dejó de mentirse (L14), el que sabe todo y la que entiende poco (L15), el que quiere reglas y la que quiere raíces (L16).
 - **Ecos entre libros son sutiles**: imágenes transformadas (el "techo como cielo más bajo" de L1 → L6; la "mesa vacía" de L2 → la silla vacía del hijo que crece en L6; el "faraón" de L1 → las "pirámides" de L3).
 - **Cada salmo tiene voz en primera persona** y un momento de quiebre emocional.
 - **Las parábolas terminan sin moraleja**, con una imagen final que resuena.
 - **Motivo de la zarza se transforma en cada libro:** fuego cotidiano (Prólogo), al borde del camino (L1), en el rostro del vecino (L2), en todo oficio honesto (L3), en gestos intergeneracionales (L4), la gente que no sabe que arde (L5), **"La zarza eres tú"** — la hija (L6), la tierra herida que no está enojada (L7), **fuego propio vs. fuego ajeno** — el dinero que consume (L8), **la zarza escondida por la noche oscura** — presencia humana que no suelta (L9).
-- **Zarza en los nuevos libros:** el deseo como zarza que arde en el cuerpo (L10 v.5), el cuerpo del amado como zarza ardiente que no se consume (L10 v.13), el cuerpo como zarza más cercana (L10 v.27). la zarza diurna — arde a plena luz del día, no se ve pero se siente el calor (L11 v.21). la pregunta "¿quién soy?" como zarza ardiente de los veinte años, compañera de viaje que arde para que no camines a ciegas (L12 v.5, v.6, v.22).
+- **Zarza en los nuevos libros:** el deseo como zarza que arde en el cuerpo (L10 v.5), el cuerpo del amado como zarza ardiente que no se consume (L10 v.13), el cuerpo como zarza más cercana (L10 v.27). La zarza diurna — arde a plena luz del día, no se ve pero se siente el calor (L11 v.21). La pregunta "¿quién soy?" como zarza ardiente de los veinte años, compañera de viaje que arde para que no camines a ciegas (L12 v.5, v.6, v.22). La zarza arde en el rostro del que nadie mira — en las manos de la migrante, en los ojos del que pide trabajo, en la espalda del que carga lo que tú no quieres cargar (L13 v.24). La zarza arde en el sótano — en el café malo, en las sillas que crujen, en la garganta del que dice la verdad por primera vez; lo sagrado no arde más fuerte en ningún altar que ahí (L14 v.24). La zarza NO arde en la pantalla — arde en la mano que toca otra mano, en el error, en la torpeza, en la necesidad de decir lo que quema; donde no hay cuerpo ni riesgo ni tiempo que se acaba, no hay fuego (L15 v.24). La zarza arde en la mesa — en el vapor, en la risa, en la mano que pasa el pan, en la silla vacía para el que todavía no llegó; "siempre ardió aquí y nosotros buscándola en las montañas" (L16 v.24).
 - **El "no sé" como gesto recurrente de fe honesta:** el Cínico (L1), el diálogo del perdón (L2), Don Aurelio y sus manos (L3), el padre ante la pregunta de la muerte (L6), Elena la enfermera (L5).
