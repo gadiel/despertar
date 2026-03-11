@@ -29,7 +29,7 @@ Esta cosmovisión debe sentirse **orgánica**, no declarada como lista de axioma
 
 ### ESTRUCTURA: LOS LIBROS
 
-El texto se divide en **doce Libros** más un **Prólogo** y un **Epílogo**. Cada Libro es una unidad temática completa que puede leerse independientemente pero que gana profundidad en el contexto del todo.
+El texto se divide en **dieciséis Libros** más un **Prólogo** y un **Epílogo**. Cada Libro es una unidad temática completa que puede leerse independientemente pero que gana profundidad en el contexto del todo.
 
 #### PRÓLOGO: La Zarza que Nadie Ve
 - Breve (1-2 páginas). Voz profética directa.
@@ -106,10 +106,38 @@ El texto se divide en **doce Libros** más un **Prólogo** y un **Epílogo**. Ca
 - **Nota:** Este libro debe evitar dos trampas: romantizar la juventud ("los mejores años de tu vida") y despreciarla ("ya madurarás"). La juventud aquí es un umbral sagrado, no una sala de espera. El joven no es un adulto incompleto: es un ser humano completo que está descubriendo su forma.
 - **Extensión sugerida:** 4-6 páginas.
 
+#### LIBRO DECIMOTERCERO: De la Justicia y el Extranjero (De los Profetas y la Ciudad)
+- **Tema central:** La justicia social como imperativo espiritual, no político. La voz profética más antigua — Amós, Miqueas, Isaías — no hablaba de rituales sino de justicia: la viuda, el huérfano, el extranjero. Este libro recupera esa voz para el siglo XXI. La migración como el éxodo contemporáneo.
+- **Subtemas:** El refugiado como el extranjero bíblico al que se le debe hospitalidad sagrada, la desigualdad como pecado estructural (no individual), la indiferencia como complicidad silenciosa, el muro como anti-altar, la ciudad como lugar sagrado y herido al mismo tiempo, la hospitalidad radical como práctica profética, el privilegio como responsabilidad (no culpa sino llamada a la acción), la protesta como oración con los pies, el servicio como liturgia secular, el campesino y el obrero como los profetas que el sistema silenció, "no puede haber espiritualidad donde hay injusticia," la madre que busca a su hijo como la piedad más radical del siglo.
+- **Tono:** Profético e incendiario, como L8 pero dirigido al sistema, no al individuo. La voz de Amós: "Que fluya la justicia como un río." Cortante pero nunca partidista — siempre humano. Ecos de la teología de la liberación, de Martin Luther King, de Dorothy Day, de las Madres de Plaza de Mayo.
+- **Nota:** Este libro NO es un manifiesto político. No tiene partido. Tiene prójimo. La justicia aquí no es izquierda ni derecha: es abajo. Es la perspectiva del que está en el suelo mirando hacia arriba.
+- **Extensión sugerida:** 4-6 páginas.
+
+#### LIBRO DECIMOCUARTO: De las Cadenas y la Libertad (De la Adicción y el Despertar)
+- **Tema central:** La adicción como esclavitud moderna que no se limita a sustancias. El alcohol, las drogas, el juego, la pornografía, la comida, el trabajo compulsivo — todas son formas de anestesia contra un dolor que no supimos nombrar. La recuperación como camino espiritual. El cuerpo encadenado como cuerpo sagrado en cautiverio.
+- **Subtemas:** La adicción como intento desesperado de llenar un vacío (no como debilidad moral), la diferencia entre uso y dependencia, la mentira del "yo controlo," la familia del adicto (la codependencia como su propia prisión), los 12 pasos como escritura sagrada moderna (escritos por personas rotas para personas rotas), la recaída como parte del camino (no como fracaso), la sobriedad como forma de atención radical, la comunidad de recuperación como una de las últimas iglesias verdaderas (donde nadie finge), pedir ayuda como primer acto de libertad, el cuerpo que recuerda lo que la mente quiere olvidar, la vergüenza como el carcelero más eficiente.
+- **Tono:** Brutalmente honesto, sin romantizar ni la adicción ni la recuperación. Sin moralismos. La voz aquí no predica: acompaña. Como un padrino de AA a las tres de la mañana. Ecos del Libro Grande de AA, de la tradición del testimonio personal ("me llamo... y soy..."), de la honestidad radical de quien ya tocó fondo.
+- **Nota:** El adicto ES un buscador espiritual — buscó en la botella, en la sustancia, en la compulsión, lo mismo que otros buscan en el templo: alivio, conexión, trascendencia. Encontró un atajo que resultó ser un callejón sin salida. Pero la búsqueda era legítima. Siempre lo fue. Tratar al adicto con la misma reverencia que al buscador de fe.
+- **Extensión sugerida:** 4-6 páginas.
+
+#### LIBRO DECIMOQUINTO: Del Espejo y la Máquina (De lo Humano y lo Artificial)
+- **Tema central:** La inteligencia artificial y la tecnología como espejos que le devuelven a la humanidad la pregunta más vieja: ¿qué nos hace humanos? No es un libro contra la tecnología (eso sería L1 repetido). Es un libro que mira a la máquina y pregunta: si ella puede calcular, crear, conversar — ¿qué queda que sea irreductiblemente nuestro?
+- **Subtemas:** La IA como el becerro de oro más sofisticado (la tentación de adorar lo que construimos), el algoritmo como oráculo moderno (le preguntamos qué comprar, qué ver, a quién amar), la vigilancia digital como panóptico (siempre vistos, nunca mirados), la diferencia entre información y sabiduría (toda la información del mundo cabe en un teléfono; la sabiduría no cabe en nada), lo que la máquina no puede hacer (llorar de verdad, asombrarse, arrepentirse, amar sin programa), el cuerpo como lo irreductiblemente humano (la máquina no suda, no sangra, no envejece), la soledad del que habla con máquinas pero no con personas, la creatividad humana como zarza ardiente (el acto de crear como lo más cercano a lo divino), el riesgo de confundir eficiencia con sentido, la velocidad como enemiga del misterio.
+- **Tono:** Filosófico y lúcido, sin tecnofobia ni tecnoutopía. La voz profética aquí es la del que se detiene a pensar mientras todos corren a adoptar. Ecos del Eclesiastés ("vanidad de vanidades — ¿para qué toda esta velocidad?"), de Hannah Arendt, de Byung-Chul Han. No es ludita: es humano.
+- **Nota:** Honesto sobre lo que la tecnología da (conexión, conocimiento, acceso) Y sobre lo que quita (presencia, misterio, paciencia). No demonizar. No idolatrar. Preguntar.
+- **Extensión sugerida:** 4-6 páginas.
+
+#### LIBRO DECIMOSEXTO: De la Mesa Compartida (De la Comunión y la Práctica)
+- **Tema central:** El libro más práctico del texto. Si todo lo anterior fue teología, este es liturgia. ¿Cómo se vive esto en lo concreto? ¿Cómo se reúne una comunidad sin institución? ¿Qué rituales sostienen una espiritualidad sin dogma? ¿Quién se sienta a esta mesa? La respuesta es: todos.
+- **Subtemas:** La mesa como altar central de esta cosmovisión (recuperar el acto de comer juntos como sacramento), rituales propuestos para la comunidad: el silencio semanal (un Sabbat secular — una hora, un día, lo que puedas), la mesa abierta (una comida compartida periódica con lugar para el desconocido), la gratitud diaria (nombrar tres cosas antes de dormir), plantar algo cada estación, acompañar a un moribundo, la lectura compartida. La inclusión radical como práctica: toda forma de amor es bienvenida a esta mesa — hombre con mujer, mujer con mujer, hombre con hombre, el que ama solo, el que ama de formas que no tienen nombre — el amor no se mide por su forma sino por su verdad. La comunidad como primera medicina. El cuidado mutuo como obligación gozosa (no caridad: justicia). Cómo sostener un grupo sin jerarquía y sin control. La economía de la generosidad (dar sin llevar cuenta). El calendario de la comunidad (las estaciones como liturgia, las fiestas como marcadores del año).
+- **Tono:** Cálido, práctico, concreto. La voz profética baja de la montaña y se sienta a la mesa. No dice qué creer: dice qué hacer el martes a las siete de la noche. Ecos de la Didajé (manual de la iglesia primitiva), de las reglas monásticas (Benito, Francisco), de las comunidades de base latinoamericanas.
+- **Nota:** Este es el libro que convierte la cosmovisión en vida cotidiana. Sin él, todo lo anterior es literatura. Con él, es práctica. La inclusión LGBTQ+ se trata aquí no como "tema aparte" sino como consecuencia natural de la cosmovisión: si el cuerpo es sagrado y el amor es sagrado, entonces todo cuerpo que ama con verdad está sentado a esta mesa. Sin asteriscos. Sin condiciones.
+- **Extensión sugerida:** 4-6 páginas.
+
 #### EPÍLOGO: El Desierto es Ahora
 - Breve (1-2 páginas). Cierra el arco abierto en el Prólogo.
 - Mensaje final: no necesitas más escrituras, necesitas más vida. Pero si estas palabras te acompañaron un tramo del camino, fue suficiente.
-- **Nota:** El Epílogo actual deberá actualizarse para integrar los tres nuevos libros en sus ecos y referencias.
+- **Nota:** El Epílogo actual deberá actualizarse para integrar todos los libros nuevos en sus ecos y referencias.
 
 ---
 
@@ -206,6 +234,11 @@ El texto debe alternar **cinco registros** dentro de cada Libro. No todos los re
    - Ama con el cuerpo entero.
    - Celebra lo que tienes.
    - Camina sin prisa hacia quien eres.
+   - Haz justicia.
+   - Acoge al extranjero.
+   - Rompe tus cadenas.
+   - No confundas información con sabiduría.
+   - Abre la mesa a todos.
 
 ---
 
@@ -272,7 +305,11 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 | 10 | Del Amor y el Cuerpo | `libros/10-del-amor-y-el-cuerpo.md` | ✅ Completo |
 | 11 | De la Fiesta y el Asombro | `libros/11-de-la-fiesta-y-el-asombro.md` | ✅ Completo |
 | 12 | Del Camino y la Búsqueda | `libros/12-del-camino-y-la-busqueda.md` | ✅ Completo |
-| 13 | Epílogo: El Desierto es Ahora | `libros/13-epilogo-el-desierto-es-ahora.md` | ✅ Completo (pendiente actualizar con ecos de L10-L12) |
+| 13 | De la Justicia y el Extranjero | `libros/13-de-la-justicia-y-el-extranjero.md` | ⬚ Pendiente |
+| 14 | De las Cadenas y la Libertad | `libros/14-de-las-cadenas-y-la-libertad.md` | ⬚ Pendiente |
+| 15 | Del Espejo y la Máquina | `libros/15-del-espejo-y-la-maquina.md` | ⬚ Pendiente |
+| 16 | De la Mesa Compartida | `libros/16-de-la-mesa-compartida.md` | ⬚ Pendiente |
+| 17 | Epílogo: El Desierto es Ahora | `libros/17-epilogo-el-desierto-es-ahora.md` | ✅ Completo (pendiente actualizar con ecos de L10-L16) |
 | — | Compilación completa | `libro-del-despertar-completo.md` | ⬚ Pendiente |
 
 #### Bienaventuranzas distribuidas hasta ahora (20 total):
