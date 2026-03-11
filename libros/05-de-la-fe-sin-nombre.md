@@ -46,7 +46,7 @@ La niña inclinó la cabeza, como hacen los niños cuando no se creen lo que les
 
 **7.** Te digo esto: hay millones de personas que rezan sin saberlo. Que se arrodillan sin doblar la rodilla. Que comulgan sin hostia. Que confiesan sus pecados al amigo de confianza en vez de al sacerdote. Que buscan lo sagrado en un concierto, en un bosque, en un libro, en una conversación a medianoche. No les falta fe. Les falta un nombre para lo que sienten.
 
-**8.** La duda no es el enemigo de la fe. La duda es la fe con los ojos abiertos. El que pregunta "¿existe Dios?" con honestidad está más cerca de lo sagrado que el que responde "sí" sin pensarlo. Porque la pregunta genuina es un acto de vulnerabilidad. Y ya sabemos que la vulnerabilidad es el único puente entre dos soledades — también es el único puente entre el ser humano y el misterio.
+**8.** La duda no es el enemigo de la fe. La duda es la fe con los ojos abiertos. El que pregunta "¿existe Dios?" con honestidad está más cerca de lo sagrado que el que responde "sí" sin pensarlo. Porque la pregunta genuina es un acto de vulnerabilidad. Y la vulnerabilidad es el único puente entre dos soledades — también es el único puente entre el ser humano y el misterio.
 
 **9.** Bienaventurado el que duda con honestidad, porque su pregunta vale más que mil certezas prestadas.
 

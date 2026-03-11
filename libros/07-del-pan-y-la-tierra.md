@@ -152,7 +152,7 @@ que da de comer y dura.
 
 **20.** Así funciona la tierra: en círculos, no en líneas. Lo que muere alimenta lo que nace. Lo que cae se convierte en lo que crece. No hay desperdicio en la naturaleza — solo hay desperdicio en la mente humana que se cree separada de ella.
 
-**21.** Tu cuerpo es tierra. No es metáfora. Es hecho. Los minerales de tus huesos estuvieron en la roca. El agua de tu sangre estuvo en el río. Cuando mueras — y morirás, ya lo dijimos, y está bien — tu cuerpo volverá al suelo y alimentará las raíces de algo que no imaginas. Ese es el último sacramento: devolver lo prestado.
+**21.** Tu cuerpo es tierra. No es metáfora. Es hecho. Los minerales de tus huesos estuvieron en la roca. El agua de tu sangre estuvo en el río. Cuando mueras — y morirás, lo sabes, y está bien — tu cuerpo volverá al suelo y alimentará las raíces de algo que no imaginas. Ese es el último sacramento: devolver lo prestado.
 
 **22.** Así que la próxima vez que te sientes a comer — cualquier cosa, un plato de arroz, una tortilla, una taza de café que viajó desde una montaña que nunca pisarás — detente un momento. Solo un momento. Antes de llevar el tenedor a la boca, mira lo que tienes delante. Y da gracias. No a un dios necesariamente. A las manos que sembraron. A la lluvia que regó. A la tierra que sostuvo. A la cadena invisible de esfuerzo, paciencia y fe que hizo posible que hoy, una vez más, haya comida en tu mesa.
 

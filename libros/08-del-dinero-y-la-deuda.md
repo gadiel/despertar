@@ -11,7 +11,7 @@
 
 **3.** Míralo bien. Mira los templos que le construimos: torres de cristal más altas que cualquier catedral, con vestíbulos de mármol donde la voz hace eco como en una nave vacía. Mira a sus sacerdotes: hombres de traje que hablan un lenguaje que nadie entiende — derivados, apalancamientos, rendimientos — con la misma autoridad con que los levitas recitaban en hebreo ante un pueblo que no hablaba hebreo. Mira sus sacramentos: la tarjeta de crédito, la hipoteca, la firma que pones sin leer porque el contrato tiene cuarenta páginas y la necesidad no espera.
 
-**4.** Mira sus promesas de salvación: *compra y serás feliz. Acumula y estarás seguro. Consume y existirás.* Y mira — mira con los ojos que aprendiste a abrir en el desierto del silencio — cómo esas promesas se cumplen exactamente como las de todo dios falso: nunca.
+**4.** Mira sus promesas de salvación: *compra y serás feliz. Acumula y estarás seguro. Consume y existirás.* Y mira — mira con los ojos que solo se abren en el desierto del silencio — cómo esas promesas se cumplen exactamente como las de todo dios falso: nunca.
 
 **5.** Porque el dinero promete y no cumple. Promete seguridad y da insomnio. Promete libertad y da cadenas más finas, más elegantes, pero cadenas al fin. Promete plenitud y da una sed que crece con cada trago. Nadie que tenga mucho dinero dirá que tiene suficiente. Esa es la señal de un dios hambriento: cuanto más le das, más pide.
 
@@ -163,7 +163,7 @@ se da siempre sin razón.
 
 **24.** Te digo esto sobre la relación sana con el dinero: el dinero sirve cuando fluye. El dinero enferma cuando se estanca. El agua que corre purifica; el agua que se empoza pudre. Así el dinero: ganarlo es legítimo. Necesitarlo es humano. Usarlo para cuidar a los tuyos, para levantar lo que se cayó, para poner pan en mesas que estaban vacías — eso es sacro. Pero acumularlo como quien acumula arena contra la marea es la fe más triste del mundo: creer que si juntas lo suficiente, la muerte no te alcanzará.
 
-**25.** La muerte te alcanzará. Ya lo dijimos. Y ese día — el día de tu último inventario — no se contarán tus bienes. Se contarán tus mesas. ¿A cuántas personas les diste un lugar? ¿A cuántas les partiste el pan? ¿A cuántas les dijiste *siéntate, no me debes nada*? Esa es la única contabilidad que importa. La otra — la de los estados de cuenta y los balances y los portafolios — esa se pudre con tu cuerpo.
+**25.** La muerte te alcanzará. Lo sabes. Y ese día — el día de tu último inventario — no se contarán tus bienes. Se contarán tus mesas. ¿A cuántas personas les diste un lugar? ¿A cuántas les partiste el pan? ¿A cuántas les dijiste *siéntate, no me debes nada*? Esa es la única contabilidad que importa. La otra — la de los estados de cuenta y los balances y los portafolios — esa se pudre con tu cuerpo.
 
 **26.** Hay una escena que todos los evangelios recuerdan y que ningún sistema económico ha podido digerir: un hombre entró al templo y volcó las mesas de los que vendían. No porque el comercio fuera malo, sino porque el templo no era lugar para el comercio. Porque hay espacios sagrados que el dinero no debe pisar. La mesa familiar. La cama del enfermo. La conversación entre amigos. El duelo del que perdió a alguien. La infancia de un niño. El lecho de muerte. Esos espacios son templos. Y cuando el dinero entra en ellos — cuando el hospital cobra lo que no puedes pagar, cuando la escuela cuesta lo que no puedes dar, cuando el funeral tiene precio de mercado — alguien debería volcar esas mesas.
 

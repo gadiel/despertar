@@ -29,7 +29,7 @@ Esta cosmovisión debe sentirse **orgánica**, no declarada como lista de axioma
 
 ### ESTRUCTURA: LOS LIBROS
 
-El texto se divide en **nueve Libros** más un **Prólogo** y un **Epílogo**. Cada Libro es una unidad temática completa que puede leerse independientemente pero que gana profundidad en el contexto del todo.
+El texto se divide en **doce Libros** más un **Prólogo** y un **Epílogo**. Cada Libro es una unidad temática completa que puede leerse independientemente pero que gana profundidad en el contexto del todo.
 
 #### PRÓLOGO: La Zarza que Nadie Ve
 - Breve (1-2 páginas). Voz profética directa.
@@ -85,9 +85,31 @@ El texto se divide en **nueve Libros** más un **Prólogo** y un **Epílogo**. C
 - **Tono:** Compasivo sin ser condescendiente. Nunca trivializar. Nunca ofrecer soluciones fáciles. Acompañar.
 - **Extensión sugerida:** 4-6 páginas.
 
+#### LIBRO DÉCIMO: Del Amor y el Cuerpo (Del Cantar y la Herida)
+- **Tema central:** El amor de pareja como experiencia sagrada completa — no solo el enamoramiento sino todo el arco: el deseo, la entrega, la convivencia, la ruptura, el duelo, y la posibilidad de volver a amar. El cuerpo que ama y desea como lugar de lo sagrado, no como obstáculo para alcanzarlo.
+- **Subtemas:** El deseo como fuego legítimo (tradición del Cantar de los Cantares, no represión puritana), la diferencia entre amar y necesitar, la convivencia como el verdadero acto de fe (no la boda sino el martes por la noche), el divorcio como duelo legítimo y no como fracaso, la soledad elegida vs. la soledad por miedo, el cuerpo desnudo como vulnerabilidad radical, la infidelidad como síntoma (no como tema moral simple), la mesa de dos como liturgia, envejecer juntos como la forma más lenta del asombro, volver a amar después del desgarro.
+- **Tono:** Sensual sin ser explícito. Tierno sin ser ingenuo. La voz profética aquí habla desde las entrañas, no desde la montaña. Ecos del Cantar de los Cantares, de Neruda, de la mística sufí (Rumi). Es el libro más carnal y a la vez más espiritual — porque en esta cosmovisión no hay separación entre ambas cosas.
+- **Nota:** Este libro debe tratar el amor erótico con la misma reverencia con que los otros libros tratan la tierra, la muerte o la fe. Sin moralismo, sin pudor falso, pero sin caer en lo vulgar. El cuerpo del amado como zarza ardiente. La cama como altar. El beso como sacramento que no necesita sacerdote.
+- **Extensión sugerida:** 4-6 páginas.
+
+#### LIBRO UNDÉCIMO: De la Fiesta y el Asombro (Del Vino y la Danza)
+- **Tema central:** La alegría como dimensión espiritual legítima y necesaria. La celebración no como escape sino como afirmación de la vida. El texto hasta aquí ha hablado mucho de heridas — este libro recuerda que la vida también es fiesta, y que la fiesta es sagrada.
+- **Subtemas:** La risa como oración involuntaria, bailar como el cuerpo que reza sin permiso de la mente, la fiesta comunitaria como liturgia (la boda, el bautizo, la graduación, el cumpleaños del abuelo), el vino como sacramento ambivalente (celebración vs. evasión), la alegría después del sufrimiento como la primavera después del invierno, cantar juntos como la forma más antigua de comunidad, la diferencia entre placer y gozo (el placer se consume, el gozo te transforma), las tres de la tarde bajo el sol como contrapunto de las tres de la mañana en la oscuridad, el humor como forma de sabiduría, la gratitud como la madre de toda alegría, la infancia como estado de fiesta permanente que perdimos.
+- **Tono:** Luminoso, expansivo, contagioso. Este es el libro que contrabalancea toda la gravedad del texto. La voz profética aquí no truena: canta. Ecos de los Salmos de alabanza (Salmo 150), del Eclesiastés ("tiempo de danzar"), de Walt Whitman, de la tradición festiva latinoamericana. Pero nunca ingenuo: la alegría aquí es la alegría del que ya conoce el dolor y elige celebrar de todos modos.
+- **Nota:** La fiesta de este libro no es la fiesta del consumo ni del exceso vacío. Es la fiesta del que ha cruzado el desierto y encuentra un oasis. Es la fiesta del sobreviviente. Es el "a pesar de todo, sí" que le da sentido a todos los otros libros.
+- **Extensión sugerida:** 4-6 páginas.
+
+#### LIBRO DUODÉCIMO: Del Camino y la Búsqueda (De la Juventud y el Umbral)
+- **Tema central:** El joven que está en el umbral de la vida adulta y no sabe quién es todavía. La parálisis ante las posibilidades infinitas. La búsqueda de identidad en un mundo que ofrece mil espejos y ninguno refleja la verdad.
+- **Subtemas:** La adolescencia como desierto iniciático (todas las culturas tenían ritos de paso; la nuestra no tiene ninguno), la parálisis de las opciones infinitas ("puedes ser lo que quieras" como la mentira más pesada que le dijeron a una generación), la identidad construida en redes sociales vs. la identidad forjada en la experiencia, la comparación como veneno (el feed como galería de vidas aparentemente perfectas), el mentor como figura perdida (el joven que no tiene a quién preguntar), el primer fracaso como primer maestro real, la vocación como llamada que no se elige sino que se descubre, la prisa por "llegar" vs. el valor del camino mismo, la rebeldía como forma legítima de búsqueda espiritual, la vergüenza del que no encaja como señal de que el molde está mal (no el joven), la pregunta "¿quién soy?" como la zarza ardiente de los veinte años.
+- **Tono:** Directo, sin condescendencia, sin paternalismo. Este libro le habla al joven como igual, no como discípulo. La voz profética aquí no es la del viejo que da consejos: es la del caminante que reconoce el terreno porque lo atravesó y todavía tiene barro en los zapatos. Ecos de Rilke (Cartas a un joven poeta), de Hesse (Siddharta), de la tradición del viaje del héroe. Nunca "yo a tu edad": siempre "el camino que pisas es tan real como cualquier otro."
+- **Nota:** Este libro debe evitar dos trampas: romantizar la juventud ("los mejores años de tu vida") y despreciarla ("ya madurarás"). La juventud aquí es un umbral sagrado, no una sala de espera. El joven no es un adulto incompleto: es un ser humano completo que está descubriendo su forma.
+- **Extensión sugerida:** 4-6 páginas.
+
 #### EPÍLOGO: El Desierto es Ahora
 - Breve (1-2 páginas). Cierra el arco abierto en el Prólogo.
 - Mensaje final: no necesitas más escrituras, necesitas más vida. Pero si estas palabras te acompañaron un tramo del camino, fue suficiente.
+- **Nota:** El Epílogo actual deberá actualizarse para integrar los tres nuevos libros en sus ecos y referencias.
 
 ---
 
@@ -181,6 +203,9 @@ El texto debe alternar **cinco registros** dentro de cada Libro. No todos los re
    - No adores al dinero.
    - Pide ayuda.
    - Asómbrate.
+   - Ama con el cuerpo entero.
+   - Celebra lo que tienes.
+   - Camina sin prisa hacia quien eres.
 
 ---
 
@@ -244,7 +269,10 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 | 7 | Del Pan y la Tierra | `libros/07-del-pan-y-la-tierra.md` | ✅ Completo |
 | 8 | Del Dinero y la Deuda | `libros/08-del-dinero-y-la-deuda.md` | ✅ Completo |
 | 9 | De la Ansiedad y la Sanación | `libros/09-de-la-ansiedad-y-la-sanacion.md` | ✅ Completo |
-| 10 | Epílogo: El Desierto es Ahora | `libros/10-epilogo-el-desierto-es-ahora.md` | ✅ Completo |
+| 10 | Del Amor y el Cuerpo | `libros/10-del-amor-y-el-cuerpo.md` | ✅ Completo |
+| 11 | De la Fiesta y el Asombro | `libros/11-de-la-fiesta-y-el-asombro.md` | ✅ Completo |
+| 12 | Del Camino y la Búsqueda | `libros/12-del-camino-y-la-busqueda.md` | ✅ Completo |
+| 13 | Epílogo: El Desierto es Ahora | `libros/13-epilogo-el-desierto-es-ahora.md` | ✅ Completo (pendiente actualizar con ecos de L10-L12) |
 | — | Compilación completa | `libro-del-despertar-completo.md` | ⬚ Pendiente |
 
 #### Bienaventuranzas distribuidas hasta ahora (20 total):
@@ -268,6 +296,12 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 18. "...el que distingue entre lo que necesita y lo que le dijeron que necesita" (Libro 8, v.12)
 19. "...el que dice 'no puedo más' en voz alta" (Libro 9, v.20)
 20. "...el que pide ayuda cuando ya no puede más" (Libro 9, v.24)
+21. "...el que ama con el cuerpo entero" (Libro 10, v.6)
+22. "...el que ha amado y ha perdido y elige amar de nuevo" (Libro 10, v.20)
+23. "...el que baila sin que nadie lo mire" (Libro 11, v.6)
+24. "...el que sabe celebrar lo pequeño" (Libro 11, v.12)
+25. "...el que no encaja en ningún molde" (Libro 12, v.7)
+26. "...el que camina sin mapa y sigue caminando" (Libro 12, v.17)
 
 #### Parábolas escritas:
 1. Del hombre que se quedó sin batería (Libro 1) — metro, río, pescador
@@ -279,6 +313,9 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 7. De la taza de café (Libro 7) — Lucía, cereza, hombre en piso 14
 8. Del hombre que lo tenía todo (Libro 8) — Marcos, mesa de 8 puestos, abuelo carpintero
 9. De la llamada (Libro 9) — Sara, buzón de voz a las 3 AM, "no puedo más"
+10. Del hombre que se presentaba cada mañana (Libro 10) — Arturo e Inés, 46 años casados, Alzheimer, margaritas
+11. De la mesa que creció (Libro 11) — Marta y Tomás, cumpleaños 70, mesa de 2 que llega a 15
+12. Del que caminaba perros (Libro 12) — Diego y Andrés, parque al atardecer, Copérnico el golden retriever
 
 #### Personajes recurrentes / referenciados:
 - **Don Aurelio** (panadero, Libro 3) — referenciado en Libro 5 v.17, eco en Libro 8 v.22
@@ -290,6 +327,13 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 - **Lucía** (recolectora de café, Libro 7) — ladera a 1600m
 - **Marcos** (financiero, Libro 8) — mesa de 8 puestos, abuelo carpintero
 - **Sara** (madre, Libro 9) — la llamada a las 3 AM, "no puedo más"
+- **Arturo** (esposo, Libro 10) — 46 años casado con Inés, se presenta cada mañana
+- **Inés** (esposa de Arturo, Libro 10) — Alzheimer, margaritas, "Qué bonitas. Siéntese."
+- **Marta y Tomás** (pareja, Libro 11) — cumpleaños 70, la mesa que creció de 2 a 15
+- **Don Roque** (vecino, Libro 11) — pan dulce comprado "sin saber para qué"
+- **Diego** (filósofo/paseador de perros, Libro 12) — 24 años, 100 currículums, escribe de noche
+- **Andrés** (el que "lo logró", Libro 12) — renunció porque nada era suyo
+- **Copérnico** (golden retriever, Libro 12) — "ajeno a las preguntas de la especie que lo alimentaba"
 
 #### Décimas completadas (una por libro):
 1. Décima del silencio (Libro 1) — A:-ento B:-ido C:-ar D:-ía
@@ -301,12 +345,16 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 7. Décima de la tierra (Libro 7) — A:-ano B:-er C:-ura D:-or
 8. Décima de Mammón (Libro 8) — A:-era B:-or C:-ión D:-uro
 9. Décima de la herida (Libro 9) — A:-ura B:-or C:-ir D:-ado
+10. Décima del amor (Libro 10) — A:-or B:-oche C:-ura D:-eso
+11. Décima de la fiesta (Libro 11) — A:-ida B:-or C:-ía D:-ar
+12. Décima del camino (Libro 12) — A:-ido B:-ado C:-ero D:-ud
 
 #### Convenciones establecidas:
 - **Los 5 registros aparecen en cada Libro** (no solo 3 como mínimo).
-- **Diálogos con nombres descriptivos:** el Cínico y el Peregrino (L1), sobre el perdón (L2), el Ingeniero y el Carpintero (L3), sobre la muerte (L4), la Atea y el Creyente (L5), dos padres en un parque (L6), el Campesino y el Economista (L7), la Generosa y el Prudente (L8), el que no quiere ir y el que fue (L9).
+- **Diálogos con nombres descriptivos:** el Cínico y el Peregrino (L1), sobre el perdón (L2), el Ingeniero y el Carpintero (L3), sobre la muerte (L4), la Atea y el Creyente (L5), dos padres en un parque (L6), el Campesino y el Economista (L7), la Generosa y el Prudente (L8), el que no quiere ir y el que fue (L9), la que se fue y el que se quedó (L10), el Serio y la que Baila (L11), la que tiene un plan y el que no tiene ninguno (L12).
 - **Ecos entre libros son sutiles**: imágenes transformadas (el "techo como cielo más bajo" de L1 → L6; la "mesa vacía" de L2 → la silla vacía del hijo que crece en L6; el "faraón" de L1 → las "pirámides" de L3).
 - **Cada salmo tiene voz en primera persona** y un momento de quiebre emocional.
 - **Las parábolas terminan sin moraleja**, con una imagen final que resuena.
 - **Motivo de la zarza se transforma en cada libro:** fuego cotidiano (Prólogo), al borde del camino (L1), en el rostro del vecino (L2), en todo oficio honesto (L3), en gestos intergeneracionales (L4), la gente que no sabe que arde (L5), **"La zarza eres tú"** — la hija (L6), la tierra herida que no está enojada (L7), **fuego propio vs. fuego ajeno** — el dinero que consume (L8), **la zarza escondida por la noche oscura** — presencia humana que no suelta (L9).
+- **Zarza en los nuevos libros:** el deseo como zarza que arde en el cuerpo (L10 v.5), el cuerpo del amado como zarza ardiente que no se consume (L10 v.13), el cuerpo como zarza más cercana (L10 v.27). la zarza diurna — arde a plena luz del día, no se ve pero se siente el calor (L11 v.21). la pregunta "¿quién soy?" como zarza ardiente de los veinte años, compañera de viaje que arde para que no camines a ciegas (L12 v.5, v.6, v.22).
 - **El "no sé" como gesto recurrente de fe honesta:** el Cínico (L1), el diálogo del perdón (L2), Don Aurelio y sus manos (L3), el padre ante la pregunta de la muerte (L6), Elena la enfermera (L5).

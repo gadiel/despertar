@@ -176,7 +176,7 @@ arde, arde todavía.
 
 **24.** Porque al final — y esto lo aprenderás tarde o temprano, por las buenas o por las malas — nadie recuerda tus logros. Nadie recuerda tu currículum. Nadie recuerda cuántos seguidores tenías. Lo que recuerdan es si estuviste ahí. Si los miraste a los ojos. Si compartiste el pan. Si te quedaste cuando todos se fueron.
 
-**25.** El desierto que atravesaste para encontrar el silencio no era solo para encontrarte a ti mismo. Era para vaciarte lo suficiente como para que cupiera el otro. Porque el corazón lleno de ruido no tiene espacio para nadie. Pero el corazón que ha aprendido a callar tiene habitaciones infinitas.
+**25.** Hay un desierto interior — un silencio que cuesta visitar — y ese desierto no existe solo para que te encuentres a ti mismo. Existe para vaciarte lo suficiente como para que quepa el otro. Porque el corazón lleno de ruido no tiene espacio para nadie. Pero el corazón que ha aprendido a callar tiene habitaciones infinitas.
 
 **26.** Así que sal del desierto. Vuelve a la ciudad. Vuelve al edificio de nueve pisos, al ascensor donde nadie se mira, al pasillo donde el correo se acumula. Pero vuelve distinto. Vuelve con los ojos abiertos. Vuelve con un plato de más en la mesa.
 

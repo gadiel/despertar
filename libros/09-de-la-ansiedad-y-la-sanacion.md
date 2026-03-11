@@ -11,7 +11,7 @@
 
 **3.** La ansiedad. La depresión. El pánico que llega sin aviso y te deja las manos heladas en un día de sol. La tristeza que no responde a nada — no perdiste a nadie, no pasó nada, todo está "bien," y sin embargo el pecho pesa como si llevaras una piedra cosida por dentro.
 
-**4.** Te digo esto porque ya lo dijimos al principio y hay que decirlo otra vez, más fuerte, más cerca: tu cuerpo no está fallando. Tu cuerpo está hablando. La ansiedad es el profeta del presente: denuncia lo que tu boca no se atreve a nombrar. Y la depresión no es cobardía ni debilidad ni falta de voluntad. La depresión es el alma que se ha sentado en medio del desierto y dice: *no puedo seguir caminando sin agua.*
+**4.** Te digo esto y hay que decirlo todas las veces que haga falta, más fuerte, más cerca: tu cuerpo no está fallando. Tu cuerpo está hablando. La ansiedad es el profeta del presente: denuncia lo que tu boca no se atreve a nombrar. Y la depresión no es cobardía ni debilidad ni falta de voluntad. La depresión es el alma que se ha sentado en medio del desierto y dice: *no puedo seguir caminando sin agua.*
 
 **5.** Esa alma no necesita un sermón. Necesita agua.
 
@@ -97,7 +97,7 @@ también se ve el cielo.
 
 **11.** El cuerpo. Volvemos siempre al cuerpo. Te dijimos que el cuerpo es sagrado y ahora lo decimos de otra manera: el cuerpo es el primer sanador. Cuando la mente se convierte en laberinto — cuando los pensamientos giran como el ventilador del techo a las tres de la mañana, sin ir a ninguna parte — el cuerpo sabe el camino de vuelta.
 
-**12.** Caminar. Eso es todo. No correr un maratón. No convertir tu dolor en disciplina espartana. Caminar. Poner un pie delante del otro. Sentir el suelo — esa tierra sagrada que ya conoces — debajo de tus zapatos. Dejar que el aire entre. Dejar que los brazos se muevan. El cuerpo recuerda lo que la mente olvida: que estás vivo. Que te mueves. Que el mundo tiene textura y temperatura y olor. Y que nada de eso lo inventó tu cabeza.
+**12.** Caminar. Eso es todo. No correr un maratón. No convertir tu dolor en disciplina espartana. Caminar. Poner un pie delante del otro. Sentir el suelo — esa tierra sagrada que te sostiene — debajo de tus zapatos. Dejar que el aire entre. Dejar que los brazos se muevan. El cuerpo recuerda lo que la mente olvida: que estás vivo. Que te mueves. Que el mundo tiene textura y temperatura y olor. Y que nada de eso lo inventó tu cabeza.
 
 **13.** No te estoy dando una receta. Las recetas son para los que quieren soluciones rápidas y esto no tiene solución rápida. Te estoy diciendo que tu cuerpo es tu aliado, no tu enemigo. Que las manos que tiemblan son las mismas manos que pueden amasar pan. Que las piernas que no quieren levantarse son las mismas piernas que te pueden llevar al parque donde los niños juegan sin saber lo que pesa el mundo. Que el corazón que late con pánico es el mismo corazón que late cuando abrazas a tu hijo.
 
@@ -105,7 +105,7 @@ también se ve el cielo.
 
 ---
 
-**15.** La terapia. El confesionario secular. El lugar donde por fin puedes decir lo que no puedes decir en ningún otro lugar: *tengo miedo. Me siento solo. No sé quién soy. No puedo más.* Y alguien — un ser humano entrenado para escuchar sin huir — se queda. No te juzga. No te arregla. Se queda. Como se quedó el doctor Estrada junto a Doña Carmen. Como se queda todo el que ha aprendido que la presencia es la única medicina que nunca falla.
+**15.** La terapia. El confesionario secular. El lugar donde por fin puedes decir lo que no puedes decir en ningún otro lugar: *tengo miedo. Me siento solo. No sé quién soy. No puedo más.* Y alguien — un ser humano entrenado para escuchar sin huir — se queda. No te juzga. No te arregla. Se queda. Como el oncólogo que aprendió a sentarse cuando ya no había nada que operar. Como se queda todo el que ha aprendido que la presencia es la única medicina que nunca falla.
 
 **16.** No voy a decirte que la terapia es para todos. No voy a decirte que es magia ni que en diez sesiones serás otro. Te digo que es una mesa. Otra mesa más en esta escritura que está llena de mesas. Una mesa donde te sientas frente a alguien y pones sobre ella lo que llevas cargando: las piedras, los miedos, los nombres que no has dicho en voz alta. Y la mesa aguanta. Siempre aguanta.
 
@@ -129,7 +129,7 @@ también se ve el cielo.
 
 —Es que no quiero hablar con un desconocido de mis cosas. No quiero que alguien me analice. No quiero que me digan lo que está mal conmigo.
 
-—Un buen terapeuta no te dice lo que está mal contigo. Te ayuda a escuchar lo que tú ya sabes pero llevas años tapando con ruido. Es como el silencio del que hablamos al principio: alguien crea el espacio para que tú lo llenes con lo que llevas callando.
+—Un buen terapeuta no te dice lo que está mal contigo. Te ayuda a escuchar lo que tú ya sabes pero llevas años tapando con ruido. Es como aprender a estar en silencio: alguien crea el espacio para que tú lo llenes con lo que llevas callando.
 
 —¿Y si empiezo y descubro que lo que tengo es peor de lo que creo?
 
@@ -186,7 +186,7 @@ también merece vivir.
 
 ---
 
-**25.** Y si hoy no puedes pedir ayuda — si la vergüenza todavía pesa más que el dolor, si la puerta todavía se siente demasiado pesada — al menos haz esto: respira. Respira como te dijimos al principio, cuando hablábamos del silencio y del desierto. Respira como un acto de fe. Cada respiración es una apuesta por el siguiente momento. Y el siguiente momento puede ser distinto. No mejor necesariamente. Pero distinto. Y distinto ya es el primer paso hacia posible.
+**25.** Y si hoy no puedes pedir ayuda — si la vergüenza todavía pesa más que el dolor, si la puerta todavía se siente demasiado pesada — al menos haz esto: respira. Respira como se respira en el desierto: despacio, con intención, como si el aire fuera lo único que te queda. Respira como un acto de fe. Cada respiración es una apuesta por el siguiente momento. Y el siguiente momento puede ser distinto. No mejor necesariamente. Pero distinto. Y distinto ya es el primer paso hacia posible.
 
 **26.** Porque esta es la verdad que todas las noches oscuras ocultan y que todas las mañanas revelan: tú sigues aquí. Después de todo — después del ruido que te ensordece, la soledad que te encoge, el trabajo que te vacía, la muerte que te asusta, la fe que te falta, los hijos que te preocupan, la tierra que pisas sin mirar, el dinero que te esclaviza, la ansiedad que te paraliza — después de todo eso, sigues aquí. Respirando. Leyendo. Buscando.
 
