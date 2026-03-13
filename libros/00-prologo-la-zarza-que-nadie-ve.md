@@ -21,7 +21,7 @@
 
 **8.** Este texto nace de una sospecha: que la persona del siglo XXI no necesita menos espiritualidad, sino más. No la espiritualidad empaquetada de los gurús de aeropuerto. No la doctrina rancia de instituciones que perdieron su fuego hace siglos y ahora administran las cenizas. No las frases bonitas que se comparten y se olvidan antes de que el pulgar termine de hacer scroll. Sino algo más antiguo y más nuevo al mismo tiempo. Algo que no tiene nombre en ningún idioma. Algo que arde.
 
-**9.** ¿Qué escritura necesita quien vive bombardeado de información pero hambriento de sentido? ¿Qué salmo canta el que no cree en dios pero llora a las tres de la mañana? ¿Qué parábola ilumina al que trabaja sesenta horas por semana y ya no recuerda para qué? ¿Qué bienaventuranza alcanza al que caminó mil kilómetros con la esperanza como único equipaje? ¿Qué mesa recibe al que llega sin saber si tiene permiso de sentarse?
+**9.** ¿Qué escritura necesita quien vive bombardeado de información pero hambriento de sentido? ¿Qué salmo canta el que no cree en dios pero llora a las tres de la mañana? ¿Qué parábola ilumina al que trabaja sesenta horas por semana y ya no recuerda para qué? ¿Qué bienaventuranza alcanza al que caminó mil kilómetros con la esperanza como único equipaje? ¿Qué profecía le habla al que vive entre dos pueblos que dicen que Dios les prometió la misma tierra? ¿Qué mesa recibe al que llega sin saber si tiene permiso de sentarse?
 
 **10.** Estas páginas no tienen respuesta. Tienen compañía. Y a veces la compañía es la única respuesta que de verdad sirve.
 

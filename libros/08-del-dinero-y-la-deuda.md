@@ -51,7 +51,9 @@ La mesa de ocho puestos sigue ahí. Ahora se usa los domingos.
 
 **11.** Pero no voy a hacer lo que los profetas cómodos hacen: culpar al sistema y lavarte las manos. Porque dentro de ese sistema, tú tomas decisiones. Cada día. Y hay una diferencia entre la deuda que contraes por necesidad — el techo, la comida, la medicina — y la deuda que contraes por vanidad. La primera es sagrada. La segunda es el diezmo que le pagas a Mammón.
 
-**12.** Bienaventurado el que distingue entre lo que necesita y lo que le dijeron que necesita, porque ese ha roto la primera cadena.
+**12.** Y hay una deuda que merece su propio versículo, porque es la trampa más cruel que esta era inventó para sus jóvenes: la deuda estudiantil. Escucha: un joven de dieciocho años firma un contrato que no entiende para pagar una educación que le prometieron como boleto de entrada a la libertad. Estudia cuatro años, cinco, seis. Se gradúa. Recibe un diploma en una mano y una cadena en la otra. Sale al mundo creyendo que es libre y descubre que debe más dinero del que sus padres ganaron en una década. Estudió para ser libre y salió encadenado. Esa es la parábola más oscura de este siglo: un joven que invirtió en sí mismo y el interés compuesto se lo cobró antes de que pudiera vivir.
+
+**13.** Bienaventurado el que distingue entre lo que necesita y lo que le dijeron que necesita, porque ese ha roto la primera cadena.
 
 ---
 
@@ -86,13 +88,19 @@ creciendo en la oscuridad.
 
 ---
 
-**13.** La publicidad. La falsa profecía del siglo. Cada anuncio es un evangelio diminuto que te dice la misma mentira: *te falta algo.* No eres suficiente tal como eres. No eres bello sin este producto. No eres exitoso sin esta marca. No eres amado sin este regalo. La publicidad es el único oficio del mundo que consiste íntegramente en crear una herida y venderte la venda.
+**14.** La publicidad. La falsa profecía del siglo. Cada anuncio es un evangelio diminuto que te dice la misma mentira: *te falta algo.* No eres suficiente tal como eres. No eres bello sin este producto. No eres exitoso sin esta marca. No eres amado sin este regalo. La publicidad es el único oficio del mundo que consiste íntegramente en crear una herida y venderte la venda.
 
-**14.** Y funciona. Funciona porque toca lo más frágil que tienes: la sospecha de que no eres suficiente. Esa sospecha que te plantaron de niño — cuando te dijeron qué tenías que *ser* para valer algo — es el surco donde la publicidad siembra. Y de ese surco crece el consumo. No el consumo que satisface una necesidad real, sino el consumo que llena un vacío que vuelve a abrirse antes de que la caja llegue a tu puerta.
+**15.** Y funciona. Funciona porque toca lo más frágil que tienes: la sospecha de que no eres suficiente. Esa sospecha que te plantaron de niño — cuando te dijeron qué tenías que *ser* para valer algo — es el surco donde la publicidad siembra. Y de ese surco crece el consumo. No el consumo que satisface una necesidad real, sino el consumo que llena un vacío que vuelve a abrirse antes de que la caja llegue a tu puerta.
 
-**15.** El consumo como ritual vacío: compras, desempacas, usas tres días, guardas, olvidas. Compras otra vez. El ciclo se repite con la regularidad de una liturgia, solo que esta liturgia no te conecta con nada. Te desconecta de todo. Cada objeto nuevo es un ladrillo más entre tú y lo que de verdad necesitas — que nunca fue un objeto.
+**16.** El consumo como ritual vacío: compras, desempacas, usas tres días, guardas, olvidas. Compras otra vez. El ciclo se repite con la regularidad de una liturgia, solo que esta liturgia no te conecta con nada. Te desconecta de todo. Cada objeto nuevo es un ladrillo más entre tú y lo que de verdad necesitas — que nunca fue un objeto.
 
-**16.** ¿Cuántas cosas tienes en tu casa que no has tocado en un año? ¿Cuánta ropa lleva meses sin que la mires? ¿Cuántos objetos compraste con esa punzada de emoción que duró exactamente lo que tarda una entrega en llegar y morir en una esquina del armario? Cada uno de esos objetos fue una oración dirigida a Mammón. Y Mammón respondió como responden todos los dioses falsos: con silencio.
+**17.** ¿Cuántas cosas tienes en tu casa que no has tocado en un año? ¿Cuánta ropa lleva meses sin que la mires? ¿Cuántos objetos compraste con esa punzada de emoción que duró exactamente lo que tarda una entrega en llegar y morir en una esquina del armario? Cada uno de esos objetos fue una oración dirigida a Mammón. Y Mammón respondió como responden todos los dioses falsos: con silencio.
+
+**18.** Y ahora Mammón tiene profetas nuevos. Míralos: están en tu pantalla. Un anillo de luz les ilumina la cara. Hablan de libertad financiera como los evangelistas hablan de la vida eterna — con la misma cadencia, la misma urgencia fabricada, la misma promesa de que si los sigues, si compras su curso, si entras a su comunidad, alcanzarás la tierra prometida. La tierra prometida siempre es la misma: no tener que trabajar. Vivir de rentas. Que el dinero trabaje por ti. Como si el dinero pudiera hacer lo que tú no quieres hacer sin que alguien, en algún lugar, lo haga en tu nombre.
+
+**19.** Los profetas de Mammón cambiaron el púlpito por el podcast y la Biblia por el blockchain. Te dicen *cripto*, te dicen *token*, te dicen *descentralizado*, y la palabra suena a libertad pero el mecanismo es el mismo de siempre: los primeros en llegar comen; los últimos pagan la cuenta. Antes se llamaba esquema piramidal. Ahora se llama innovación. Antes el falso profeta llevaba túnica. Ahora lleva una sudadera de diseñador y un código QR.
+
+**20.** No te digo que toda tecnología financiera sea fraude. Te digo que aprendas a reconocer la diferencia entre una herramienta y un templo. La herramienta la usas tú. El templo te usa a ti. Cuando alguien te promete rendimientos del treinta por ciento mientras toma café frente a una cámara, hazte una pregunta vieja como los profetas: *¿a quién le sirve esta promesa?* Si la respuesta es "a él antes que a ti," estás en un templo. Y el dios de ese templo tiene hambre.
 
 ---
 
@@ -130,19 +138,75 @@ creciendo en la oscuridad.
 
 ---
 
-**17.** Te hablo de la pobreza. Y voy a decirte dos cosas que parecen contradecirse:
+**21.** Te hablo de la pobreza. Y voy a decirte dos cosas que parecen contradecirse:
 
-**18.** La primera: no romantices la pobreza. La pobreza no es noble. La pobreza es brutal. La pobreza es levantarte sin saber si hoy comen tus hijos. Es caminar dos horas porque no puedes pagar el autobús. Es morirte de algo que se cura con una pastilla que no puedes comprar. Quien dice que los pobres son felices porque "tienen lo esencial" nunca ha sido pobre. La pobreza mata. La pobreza humilla. La pobreza no le enseña nada a nadie que la persona no hubiera preferido aprender de otra manera.
+**22.** La primera: no romantices la pobreza. La pobreza no es noble. La pobreza es brutal. La pobreza es levantarte sin saber si hoy comen tus hijos. Es caminar dos horas porque no puedes pagar el autobús. Es morirte de algo que se cura con una pastilla que no puedes comprar. Quien dice que los pobres son felices porque "tienen lo esencial" nunca ha sido pobre. La pobreza mata. La pobreza humilla. La pobreza no le enseña nada a nadie que la persona no hubiera preferido aprender de otra manera.
 
-**19.** La segunda: hay una libertad en la sencillez elegida que el exceso jamás podrá dar. No hablo de la miseria impuesta. Hablo de la decisión consciente de tener menos para ser más. El que elige vivir con lo justo no es un romántico: es un estratega del alma. Porque sabe algo que Mammón no quiere que sepas: que cada objeto que posees también te posee a ti. Que cada lujo te ata. Que cada exceso es una cuerda más que te amarra al miedo de perderlo.
+**23.** La segunda: hay una libertad en la sencillez elegida que el exceso jamás podrá dar. No hablo de la miseria impuesta. Hablo de la decisión consciente de tener menos para ser más. El que elige vivir con lo justo no es un romántico: es un estratega del alma. Porque sabe algo que Mammón no quiere que sepas: que cada objeto que posees también te posee a ti. Que cada lujo te ata. Que cada exceso es una cuerda más que te amarra al miedo de perderlo.
 
-**20.** Francisco de Asís se quitó la ropa en la plaza del pueblo y dijo: *ya no debo nada.* No te pido que hagas eso. Te pido que entiendas lo que estaba diciendo: que la libertad empieza donde el miedo a perder termina.
+**24.** Francisco de Asís se quitó la ropa en la plaza del pueblo y dijo: *ya no debo nada.* No te pido que hagas eso. Te pido que entiendas lo que estaba diciendo: que la libertad empieza donde el miedo a perder termina.
 
-**21.** La generosidad es la herejía más peligrosa de la religión del dinero. Dar lo que tienes, compartir lo que te sobra — y sobre todo, compartir lo que *no* te sobra — es un acto que el mercado no puede comprender. Porque el mercado funciona con una lógica: más para mí, menos para ti. Y la generosidad dice lo contrario: lo que di no me falta. Me completa.
+**25.** La generosidad es la herejía más peligrosa de la religión del dinero. Dar lo que tienes, compartir lo que te sobra — y sobre todo, compartir lo que *no* te sobra — es un acto que el mercado no puede comprender. Porque el mercado funciona con una lógica: más para mí, menos para ti. Y la generosidad dice lo contrario: lo que di no me falta. Me completa.
 
-**22.** El emprendedor — el verdadero, no el que sale en las portadas — es un peregrino. Alguien que tiene una visión y arriesga todo por ella. No el que quiere hacerse rico: ese es un especulador. El emprendedor es el que ve una necesidad y dice: *yo tengo mis manos y tengo una idea y voy a intentarlo aunque fracase.* Ese acto — abrir la puerta del negocio a las cinco de la mañana sin saber si alguien entrará — se parece más a la fe que a las finanzas. Es el panadero que enciende el horno sin saber quién vendrá por el pan. Es la mujer que planta la semilla sin garantía de cosecha.
+---
 
-**23.** Pero hay un momento en que el emprendedor se convierte en Mammón. Sucede cuando la visión se vuelve ambición. Cuando "suficiente" desaparece del vocabulario. Cuando la empresa que nació para servir empieza a devorar. Cuando el pan se convierte en marca y la marca se convierte en templo y el templo exige sacrificios. Vigila ese momento. Porque es el momento en que la zarza deja de arder con fuego propio y empieza a arder con fuego ajeno. Y ese fuego — el del dinero que consume lo que toca — sí se consume. Y te consume contigo.
+### Parábola de la mujer que dejó de contar
+
+Se llamaba Rebeca y era contadora. No por accidente: era contadora por vocación, por temperamento, por esa necesidad de que los números cuadraran que la acompañaba desde niña, cuando organizaba las monedas de su alcancía por denominación y las contaba dos veces antes de dormir. Cada centavo tenía un lugar. Cada columna tenía su total. El mundo de Rebeca era un libro mayor donde el debe y el haber se miraban a los ojos con exactitud milimétrica.
+
+Tenía cuarenta y dos años cuando su vecina Hortensia tocó la puerta para pedirle un kilo de arroz. Rebeca se lo dio. Y en su libreta mental — porque la libreta mental nunca se cierra — anotó: un kilo de arroz. Pendiente.
+
+Hortensia devolvió el arroz tres días después. Rebeca tachó la línea. El universo volvía a cuadrar.
+
+Pero el universo no cuadra. No cuadra nunca. Y Rebeca empezó a notarlo el día que su hijo de dieciséis años le dijo algo que le rompió una columna entera: "Mamá, tú no das. Tú prestas. Y siempre estás esperando que te devuelvan."
+
+No durmió esa noche. A las tres de la mañana — la hora de los inventarios que no se piden — revisó su vida como quien revisa un estado de cuenta y encontró lo que temía: cada favor dado tenía una línea de cobro. Cada regalo tenía una expectativa. Cada acto de bondad tenía, escondida como una cláusula en letra pequeña, una cuenta por cobrar. No era generosidad. Era crédito emocional. Y ella era la acreedora más puntual del vecindario.
+
+Empezó despacio. El siguiente kilo de arroz que prestó, no lo anotó. Le costó como le cuesta al que deja un vicio: con las manos temblando, con la necesidad de volver a la libreta, de registrar, de saber que el mundo estaba equilibrado. Pero no anotó.
+
+Luego dejó de contar las veces que pagaba el café de alguien. Luego dejó de llevar la cuenta de quién la había invitado a cenar y a quién le debía una invitación. Luego dejó de calcular si el regalo de cumpleaños que recibía equivalía al que había dado. Cada cifra que soltaba era un barrote que aflojaba.
+
+No fue ingenuidad. Fue lo contrario: fue la disciplina más difícil que había practicado en su vida. Más difícil que cuadrar un balance anual, más difícil que cerrar los libros de una empresa. Porque cerrar los libros del alma requiere algo que la contabilidad no enseña: soltar sin saber si vuelve.
+
+Un año después, Hortensia tocó la puerta otra vez. No para pedir arroz. Para traerle un plato de tamales, envueltos en hojas de plátano, todavía calientes.
+
+"Te sobraron," dijo Rebeca.
+
+"No," dijo Hortensia. "Los hice para ti."
+
+Rebeca buscó en su libreta mental la columna donde anotar aquello. No la encontró. Y por primera vez en cuarenta y tres años, el desbalance no le dolió.
+
+Los tamales estaban bien.
+
+---
+
+**26.** Ahora escucha: hay una ofrenda que este siglo produce cada mes y que nadie llama sagrada porque nadie la ve. Cada mes, millones de personas envían dinero a un lugar donde ya no viven para sostener a personas que ya no pueden abrazar. Lo llaman remesa. Yo lo llamo diezmo. El diezmo más honesto que existe.
+
+**27.** Mira al hombre que trabaja doce horas en una cocina donde nadie sabe su nombre. Mira a la mujer que limpia pisos de madrugada en un edificio donde nunca la invitarían a cenar. El viernes cobran. El sábado van a un local con un letrero que dice "Envíos internacionales." Llenan un formulario. Pagan una comisión que es un robo pequeño que nadie denuncia porque la necesidad no negocia. Y envían lo que les queda — no lo que les sobra, lo que les queda — a una madre, a un padre, a un hijo, a una hermana, a un pueblo entero que se sostiene sobre esas transferencias como se sostenía el maná: sin verlo caer, pero confiando en que caería.
+
+**28.** Ese dinero cruza fronteras que a ellos les cerraron. Atraviesa muros que a ellos los detuvieron. Llega a manos que no pueden abrazar y hace lo que el abrazo haría si la distancia no existiera: dice *sigo aquí.* Dice *no te olvido.* Dice *esto es lo que tengo y es tuyo antes que mío.*
+
+**29.** Es el amor convertido en transferencia bancaria. Es la ofrenda más pura del siglo: la que nadie aplaude, la que nadie filma, la que sostiene medio continente mientras el otro medio mira para otro lado. Esperanza — la que caminó mil kilómetros con su hija — si llegó, si la recibieron, si alguien le abrió la puerta: un día ella también estará en ese local el sábado. Enviando lo que le queda a alguien que la extraña. Y el profeta que no vea en ese gesto una zarza ardiente no merece llamarse profeta.
+
+**30.** Bienaventurado el que envía lo que le queda a quien ya no puede abrazar, porque ese ha convertido el dinero en lo único que el dinero puede ser cuando se lo usa bien: puente.
+
+---
+
+**31.** El emprendedor — el verdadero, no el que sale en las portadas — es un peregrino. Alguien que tiene una visión y arriesga todo por ella. No el que quiere hacerse rico: ese es un especulador. El emprendedor es el que ve una necesidad y dice: *yo tengo mis manos y tengo una idea y voy a intentarlo aunque fracase.* Ese acto — abrir la puerta del negocio a las cinco de la mañana sin saber si alguien entrará — se parece más a la fe que a las finanzas. Es el panadero que enciende el horno sin saber quién vendrá por el pan. Es la mujer que planta la semilla sin garantía de cosecha.
+
+**32.** Pero hay un momento en que el emprendedor se convierte en Mammón. Sucede cuando la visión se vuelve ambición. Cuando "suficiente" desaparece del vocabulario. Cuando la empresa que nació para servir empieza a devorar. Cuando el pan se convierte en marca y la marca se convierte en templo y el templo exige sacrificios. Vigila ese momento. Porque es el momento en que la zarza deja de arder con fuego propio y empieza a arder con fuego ajeno. Y ese fuego — el del dinero que consume lo que toca — sí se consume. Y te consume contigo.
+
+---
+
+**33.** Y ahora te digo lo que ningún profeta dice sin pagar un precio: Mammón tiene un templo mayor. Un templo que no aparece en los balances porque sus ganancias se cuentan en cadáveres. El complejo militar-industrial. La guerra como negocio. La muerte como mercancía con margen de utilidad.
+
+**34.** Hay hombres sentados en salas de juntas — no en trincheras, nunca en trincheras — que calculan el costo por unidad de una bomba con la misma serenidad con que Marcos miraba sus pantallas. Para ellos una guerra no es una tragedia: es un trimestre. Un conflicto no es sufrimiento: es demanda. Y la paz — la paz es la peor amenaza para su portafolio. La paz es la recesión de Mammón.
+
+**35.** Te dijeron que las guerras se hacen por religión, por territorio, por ideología. Algunas sí. Pero mira detrás de la bandera y encontrarás un contrato. Mira debajo del discurso patriótico y encontrarás una factura. Mira quién gana cuando la bomba cae y nunca — nunca — es el que la recibe ni el que la lanza. El soldado vuelve roto. El civil queda enterrado. Y en una torre de cristal, alguien actualiza una hoja de cálculo.
+
+**36.** Bienaventurado el que se niega a invertir en la muerte, aunque la muerte pague dividendos.
+
+**37.** Si el profeta volcó las mesas de los que vendían palomas en el templo, ¿qué haría con los que venden misiles en el senado? La respuesta la sabes. Y el silencio ante esa respuesta es la complicidad que más nos pesa. Porque cada impuesto que paga la muerte, cada presupuesto que alimenta la guerra antes que el hambre, cada moneda que circula de la fábrica de armas al bolsillo del político y del político a la fábrica de armas — todo eso es un circuito cerrado de Mammón. Y nosotros somos los fieles que preferimos no mirar el altar.
 
 ---
 
@@ -161,12 +225,12 @@ se da siempre sin razón.
 
 ---
 
-**24.** Te digo esto sobre la relación sana con el dinero: el dinero sirve cuando fluye. El dinero enferma cuando se estanca. El agua que corre purifica; el agua que se empoza pudre. Así el dinero: ganarlo es legítimo. Necesitarlo es humano. Usarlo para cuidar a los tuyos, para levantar lo que se cayó, para poner pan en mesas que estaban vacías — eso es sacro. Pero acumularlo como quien acumula arena contra la marea es la fe más triste del mundo: creer que si juntas lo suficiente, la muerte no te alcanzará.
+**38.** Te digo esto sobre la relación sana con el dinero: el dinero sirve cuando fluye. El dinero enferma cuando se estanca. El agua que corre purifica; el agua que se empoza pudre. Así el dinero: ganarlo es legítimo. Necesitarlo es humano. Usarlo para cuidar a los tuyos, para levantar lo que se cayó, para poner pan en mesas que estaban vacías — eso es sacro. Pero acumularlo como quien acumula arena contra la marea es la fe más triste del mundo: creer que si juntas lo suficiente, la muerte no te alcanzará.
 
-**25.** La muerte te alcanzará. Lo sabes. Y ese día — el día de tu último inventario — no se contarán tus bienes. Se contarán tus mesas. ¿A cuántas personas les diste un lugar? ¿A cuántas les partiste el pan? ¿A cuántas les dijiste *siéntate, no me debes nada*? Esa es la única contabilidad que importa. La otra — la de los estados de cuenta y los balances y los portafolios — esa se pudre con tu cuerpo.
+**39.** La muerte te alcanzará. Lo sabes. Y ese día — el día de tu último inventario — no se contarán tus bienes. Se contarán tus mesas. ¿A cuántas personas les diste un lugar? ¿A cuántas les partiste el pan? ¿A cuántas les dijiste *siéntate, no me debes nada*? Esa es la única contabilidad que importa. La otra — la de los estados de cuenta y los balances y los portafolios — esa se pudre con tu cuerpo.
 
-**26.** Hay una escena que todos los evangelios recuerdan y que ningún sistema económico ha podido digerir: un hombre entró al templo y volcó las mesas de los que vendían. No porque el comercio fuera malo, sino porque el templo no era lugar para el comercio. Porque hay espacios sagrados que el dinero no debe pisar. La mesa familiar. La cama del enfermo. La conversación entre amigos. El duelo del que perdió a alguien. La infancia de un niño. El lecho de muerte. Esos espacios son templos. Y cuando el dinero entra en ellos — cuando el hospital cobra lo que no puedes pagar, cuando la escuela cuesta lo que no puedes dar, cuando el funeral tiene precio de mercado — alguien debería volcar esas mesas.
+**40.** Hay una escena que todos los evangelios recuerdan y que ningún sistema económico ha podido digerir: un hombre entró al templo y volcó las mesas de los que vendían. No porque el comercio fuera malo, sino porque el templo no era lugar para el comercio. Porque hay espacios sagrados que el dinero no debe pisar. La mesa familiar. La cama del enfermo. La conversación entre amigos. El duelo del que perdió a alguien. La infancia de un niño. El lecho de muerte. Esos espacios son templos. Y cuando el dinero entra en ellos — cuando el hospital cobra lo que no puedes pagar, cuando la escuela cuesta lo que no puedes dar, cuando el funeral tiene precio de mercado — alguien debería volcar esas mesas.
 
-**27.** Y si nadie las vuelca, al menos esto: que tú, en tu vida, mantengas un espacio libre de Mammón. Un rincón de tu existencia donde el valor de las cosas no se mida en precio. Donde el pan se parta sin factura y la compañía no tenga costo y el abrazo sea gratis — como siempre fue, como siempre debió ser, como siempre será cuando aprendamos lo que un niño ya sabe.
+**41.** Y si nadie las vuelca, al menos esto: que tú, en tu vida, mantengas un espacio libre de Mammón. Un rincón de tu existencia donde el valor de las cosas no se mida en precio. Donde el pan se parta sin factura y la compañía no tenga costo y el abrazo sea gratis — como siempre fue, como siempre debió ser, como siempre será cuando aprendamos lo que un niño ya sabe.
 
-**28.** Porque una vez le pregunté a un niño qué era ser rico. Me dijo: "Tener tiempo para jugar." Todos los economistas del mundo, con sus modelos y sus gráficos y sus teorías, no han dicho nunca nada más verdadero que eso.
+**42.** Porque una vez le pregunté a un niño qué era ser rico. Me dijo: "Tener tiempo para jugar." Todos los economistas del mundo, con sus modelos y sus gráficos y sus teorías, no han dicho nunca nada más verdadero que eso.

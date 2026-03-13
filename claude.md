@@ -29,7 +29,7 @@ Esta cosmovisión debe sentirse **orgánica**, no declarada como lista de axioma
 
 ### ESTRUCTURA: LOS LIBROS
 
-El texto se divide en **dieciséis Libros** más un **Prólogo** y un **Epílogo**. Cada Libro es una unidad temática completa que puede leerse independientemente pero que gana profundidad en el contexto del todo.
+El texto se divide en **diecisiete Libros** más un **Prólogo** y un **Epílogo**. Cada Libro es una unidad temática completa que puede leerse independientemente pero que gana profundidad en el contexto del todo.
 
 #### PRÓLOGO: La Zarza que Nadie Ve
 - Breve (1-2 páginas). Voz profética directa.
@@ -134,10 +134,18 @@ El texto se divide en **dieciséis Libros** más un **Prólogo** y un **Epílogo
 - **Nota:** Este es el libro que convierte la cosmovisión en vida cotidiana. Sin él, todo lo anterior es literatura. Con él, es práctica. La inclusión LGBTQ+ se trata aquí no como "tema aparte" sino como consecuencia natural de la cosmovisión: si el cuerpo es sagrado y el amor es sagrado, entonces todo cuerpo que ama con verdad está sentado a esta mesa. Sin asteriscos. Sin condiciones.
 - **Extensión sugerida:** 4-6 páginas.
 
+#### LIBRO DECIMOSÉPTIMO: De la Profecía y el Enemigo (De las Guerras Santas y el Despertar Verdadero)
+- **Tema central:** La tensión escatológica — narrativas sagradas rivales que moldean la geopolítica actual (mesianismo sionista, mahdismo chií, dispensacionalismo cristiano, nacionalismo hindú) — reinterpretada a través de la cosmovisión del Despertar.
+- **5 tesis:** (1) El enemigo ontológico es la ideología, no un pueblo. (2) El sufrimiento es sagrado pero instrumentalizarlo es profanación. (3) La espera activa (moqāvemat/tikkun olam/vigilancia) es legítima solo cuando se dirige a la compasión universal. (4) La tierra pertenece a custodios, no a sacralizadores. (5) El verdadero fin de los tiempos es el despertar colectivo interior.
+- **Subtemas:** Dios como arma, las tres esperas mesiánicas, la idolatría del mapa, el sufrimiento heredado como escudo, la industria armamentista como templo de Mammón, la radicalización del joven vacío, el algoritmo que aprendió que el odio retiene mejor que la compasión, la tierra como mesa (no fortaleza).
+- **Tono:** El más incendiario después de L8. Compasivo con las personas, implacable con los sistemas. Sin bando. Referentes: Amós, Jeremías, Qohélet, Mahmoud Darwish, Yehuda Amichai, Simone Weil, Levinas, MLK.
+- **Nota:** NO es un manifiesto político. No nombra países en los versículos proféticos (solo imágenes: "el muro," "los dos nombres de la tierra"). Los nombres concretos aparecen en la parábola. Si un lector de cualquier tradición se siente atacado como pueblo, el texto falló. Si se siente confrontado como partícipe de una ideología, funcionó.
+- **Extensión sugerida:** 6-8 páginas.
+
 #### EPÍLOGO: El Desierto es Ahora
 - Breve (1-2 páginas). Cierra el arco abierto en el Prólogo.
 - Mensaje final: no necesitas más escrituras, necesitas más vida. Pero si estas palabras te acompañaron un tramo del camino, fue suficiente.
-- **Nota:** El Epílogo actual deberá actualizarse para integrar todos los libros nuevos en sus ecos y referencias.
+- Incluye ecos de todos los libros, incluyendo L17 ("incluso al que tu tribu llama enemigo," "niégate a heredar el odio," "a ambos lados del muro").
 
 ---
 
@@ -295,7 +303,7 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 | 0 | Prólogo: La Zarza que Nadie Ve | `libros/00-prologo-la-zarza-que-nadie-ve.md` | ✅ Completo |
 | 1 | Del Ruido y el Silencio | `libros/01-del-ruido-y-el-silencio.md` | ✅ Completo |
 | 2 | De la Soledad y el Prójimo | `libros/02-libro-segundo-de-la-soledad-y-el-projimo.md` | ✅ Completo |
-| 3 | Del Trabajo y el Sentido | `libros/03-del-trabajo0y-el-sentido.md` | ✅ Completo |
+| 3 | Del Trabajo y el Sentido | `libros/03-del-trabajo-y-el-sentido.md` | ✅ Completo |
 | 4 | De la Muerte y la Finitud | `libros/04-de-la-muerte-y-la-finitud.md` | ✅ Completo |
 | 5 | De la Fe sin Nombre | `libros/05-de-la-fe-sin-nombre.md` | ✅ Completo |
 | 6 | Del Padre y la Hija | `libros/06-del-padre-y-la-hija.md` | ✅ Completo |
@@ -308,91 +316,142 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 | 13 | De la Justicia y el Extranjero | `libros/13-de-la-justicia-y-el-extranjero.md` | ✅ Completo |
 | 14 | De las Cadenas y la Libertad | `libros/14-de-las-cadenas-y-la-libertad.md` | ✅ Completo |
 | 15 | Del Espejo y la Máquina | `libros/15-del-espejo-y-la-maquina.md` | ✅ Completo |
-| 16 | De la Mesa Compartida | `libros/16-de-la-mesa-compartida.md` | ✅ Completo |
-| 17 | Epílogo: El Desierto es Ahora | `libros/17-epilogo-el-desierto-es-ahora.md` | ✅ Completo (pendiente actualizar con ecos de L10-L16) |
-| — | Compilación completa | `libro-del-despertar-completo.md` | ⬚ Pendiente |
+| 16 | De la Mesa Compartida | `libros/16-de-la-mesa-compartida.md` | ✅ Expandido |
+| 17 | De la Profecía y el Enemigo | `libros/17-de-la-profecia-y-el-enemigo.md` | ✅ Completo (nuevo) |
+| 18 | Epílogo: El Desierto es Ahora | `libros/18-epilogo-el-desierto-es-ahora.md` | ✅ Actualizado |
+| — | Compilación completa | `libro-del-despertar-completo.md` | ✅ Completo (4520 líneas) |
 
-#### Bienaventuranzas distribuidas hasta ahora (20 total):
-1. "...los que aún saben aburrirse" (Libro 1, v.7)
+#### Bienaventuranzas distribuidas (49 total):
+1. "...los que aún saben aburrirse" (Libro 1, v.9)
 2. "...los que apagan sus pantallas para mirar a los ojos" (Libro 1, v.23)
 3. "...el que dice 'no sé' en un mundo de opiniones instantáneas" (Libro 1, v.24)
-4. "...los que aún se sientan a la mesa sin teléfono" (Libro 2, v.10)
-5. "...el que tiene un amigo al que puede llamar a medianoche" (Libro 2, v.19)
+4. "...los que aún se sientan a la mesa sin teléfono" (Libro 2, v.13)
+5. "...el que tiene un amigo al que puede llamar a medianoche" (Libro 2, v.29)
 6. "...el que descansa sin culpa" (Libro 3, v.8)
 7. "...el que trabaja con las manos" (Libro 3, v.13)
-8. "...el que mira su propia muerte a los ojos y no huye" (Libro 4, v.7)
-9. "...el que envejece sin vergüenza" (Libro 4, v.15)
-10. "...el que planta un árbol que no verá crecer" (Libro 4, v.19)
-11. "...el que duda con honestidad" (Libro 5, v.9)
-12. "...el que vive su fe en silencio" (Libro 5, v.15)
-13. "...el padre que se sienta en el suelo a jugar" (Libro 6, v.11)
-14. "...los que se sientan cada noche a la mesa con sus hijos" (Libro 6, v.14)
-15. "...el que se arrodilla ante la tierra, no por sumisión sino por gratitud" (Libro 7, v.7)
-16. "...el que devuelve a la tierra lo que la tierra le dio" (Libro 7, v.18)
-17. "...el que sabe cuánto es suficiente" (Libro 8, v.7)
-18. "...el que distingue entre lo que necesita y lo que le dijeron que necesita" (Libro 8, v.12)
-19. "...el que dice 'no puedo más' en voz alta" (Libro 9, v.20)
-20. "...el que pide ayuda cuando ya no puede más" (Libro 9, v.24)
-21. "...el que ama con el cuerpo entero" (Libro 10, v.6)
-22. "...el que ha amado y ha perdido y elige amar de nuevo" (Libro 10, v.20)
-23. "...el que baila sin que nadie lo mire" (Libro 11, v.6)
-24. "...el que sabe celebrar lo pequeño" (Libro 11, v.12)
-25. "...el que no encaja en ningún molde" (Libro 12, v.7)
-26. "...el que camina sin mapa y sigue caminando" (Libro 12, v.17)
-27. "...el que abre la puerta sin preguntar de dónde vienes" (Libro 13, v.6)
-28. "...el que sirve sin que lo vean" (Libro 13, v.17)
-29. "...el que dice 'no puedo solo' sin que le tiemble la voz — o con la voz temblando" (Libro 14, v.6)
-30. "...el que se levanta después de la recaída y vuelve al círculo sin esconder la cara" (Libro 14, v.17)
-31. "...el que apaga la máquina y se queda con el silencio" (Libro 15, v.7)
-32. "...el que usa la herramienta sin confundirla con la mano" (Libro 15, v.17)
-33. "...el que pone un plato de más sin saber para quién" (Libro 16, v.7)
-34. "...el que abre su mesa sin preguntar a quién amas" (Libro 16, v.16)
+8. "...la que sostiene sin que nadie le pregunte si puede más" (Libro 3, v.17)
+9. "...el que mira su propia muerte a los ojos y no huye" (Libro 4, v.11)
+10. "...el que nombra al que se fue por su propia mano sin bajar la voz" (Libro 4, v.22)
+11. "...el que envejece sin vergüenza" (Libro 4, v.26)
+12. "...el que planta un árbol que no verá crecer" (Libro 4, v.39)
+13. "...el que duda con honestidad" (Libro 5, v.9)
+14. "...el que vive su fe en silencio" (Libro 5, v.15)
+15. "...la madre que se permite decir 'estoy cansada'" (Libro 6, v.12)
+16. "...el padre que se sienta en el suelo a jugar" (Libro 6, v.16)
+17. "...los que se sientan cada noche a la mesa con sus hijos" (Libro 6, v.24)
+18. "...la familia que no se parece a la postal" (Libro 6, v.32)
+19. "...el que se arrodilla ante la tierra, no por sumisión sino por gratitud" (Libro 7, v.7)
+20. "...el que cuida el agua como se cuida a un hijo" (Libro 7, v.21)
+21. "...el joven que llora por lo que aún no ha muerto" (Libro 7, v.27)
+22. "...el que devuelve a la tierra lo que la tierra le dio" (Libro 7, v.33)
+23. "...el que sabe cuánto es suficiente" (Libro 8, v.7)
+24. "...el que distingue entre lo que necesita y lo que le dijeron que necesita" (Libro 8, v.13)
+25. "...el que envía lo que le queda a quien ya no puede abrazar" (Libro 8, v.30)
+26. "...el que se niega a invertir en la muerte, aunque la muerte pague dividendos" (Libro 8, v.36)
+27. "...el que dice 'no puedo más' en voz alta" (Libro 9, v.32)
+28. "...el que pide ayuda cuando ya no puede más" (Libro 9, v.36)
+29. "...el que ama con el cuerpo entero" (Libro 10, v.7)
+30. "...el que ha amado y ha perdido y elige amar de nuevo" (Libro 10, v.22)
+31. "...el que abre el cuerpo otra vez después de que se lo rompieron" (Libro 10, v.32)
+32. "...el que baila sin que nadie lo mire" (Libro 11, v.6)
+33. "...el que sabe celebrar lo pequeño" (Libro 11, v.15)
+34. "...el que llega a la fiesta y no siente nada — y se queda de todos modos" (Libro 11, v.19)
+35. "...el que no encaja en ningún molde" (Libro 12, v.7)
+36. "...el que camina sin mapa y sigue caminando" (Libro 12, v.22)
+37. "...el que abre la puerta sin preguntar de dónde vienes" (Libro 13, v.7)
+38. "...el que llora por el hijo del enemigo, porque no hay hijos del enemigo — solo hay hijos" (Libro 13, v.18)
+39. "...el que sirve sin que lo vean" (Libro 13, v.26)
+40. "...el que dice 'no puedo solo' sin que le tiemble la voz — o con la voz temblando" (Libro 14, v.6)
+41. "...el que se levanta después de la recaída y vuelve al círculo sin esconder la cara" (Libro 14, v.22)
+42. "...el que apaga la máquina y se queda con el silencio" (Libro 15, v.8)
+43. "...el que usa la herramienta sin confundirla con la mano" (Libro 15, v.26)
+44. "...el que pone un plato de más sin saber para quién" (Libro 16, v.8)
+45. "...el que pone un plato vacío en la mesa para alguien que ya no volverá" (Libro 16, v.17)
+46. "...el que abre su mesa sin preguntar a quién amas" (Libro 16, v.21)
+47. "...el que se niega a heredar el odio de su padre" (Libro 17, v.6)
+48. "...el que honra a sus muertos sin usarlos como escudo" (Libro 17, v.11)
+49. "...el que repara la grieta sin preguntar quién la causó" (Libro 17, v.18)
 
-#### Parábolas escritas:
-1. Del hombre que se quedó sin batería (Libro 1) — metro, río, pescador
+#### Parábolas escritas (28 total):
+1a. Del hombre que se quedó sin batería (Libro 1) — metro, río, pescador
+1b. De la niña que contó los pájaros (Libro 1) — niña en parque de concreto, hombre cansado en banca
 2. Del vecino del 4-B (Libro 2) — muerte anónima, cuaderno
-3. Del panadero del turno de noche (Libro 3) — Don Aurelio, pan, mujer que llora
+3a. Del panadero del turno de noche (Libro 3) — Don Aurelio, pan, mujer que llora
+3b. Del repartidor que escribía poemas (Libro 3) — Mateo, 25 años, bicicleta, poemas en app de notas
 4. Del médico que se sentó (Libro 4) — Doña Carmen, oncólogo, presencia
-5. De la mujer que rezaba sin saberlo (Libro 5) — Elena, enfermera, "pero parece"
-6. De la noche en que todo se detuvo (Libro 6) — padre, hija, "¿qué pasa cuando nos morimos?"
-7. De la taza de café (Libro 7) — Lucía, cereza, hombre en piso 14
-8. Del hombre que lo tenía todo (Libro 8) — Marcos, mesa de 8 puestos, abuelo carpintero
-9. De la llamada (Libro 9) — Sara, buzón de voz a las 3 AM, "no puedo más"
-10. Del hombre que se presentaba cada mañana (Libro 10) — Arturo e Inés, 46 años casados, Alzheimer, margaritas
+5a. De la mujer que rezaba sin saberlo (Libro 5) — Elena, enfermera, "pero parece"
+5b. Del ateo en el hospital (Libro 5) — Rodrigo, 43 años, logista, Camila su hija de 9, aneurisma, manos juntas sin fe
+6a. De la noche en que todo se detuvo (Libro 6) — padre, hija, "¿qué pasa cuando nos morimos?"
+6b. De la abuela que inventó un mundo (Libro 6) — Doña Consuelo, 68 años, nietos Mateo (9) y Valentina (5)
+7a. De la taza de café (Libro 7) — Lucía, cereza, hombre en piso 14
+7b. Del pozo seco (Libro 7) — Doña Reyes, garrafas, empresa río arriba, grifo en la ciudad
+8a. Del hombre que lo tenía todo (Libro 8) — Marcos, mesa de 8 puestos, abuelo carpintero
+8b. De la mujer que dejó de contar (Libro 8) — Rebeca, contadora, 42 años, Hortensia la vecina, dar sin llevar cuenta
+9a. De la llamada (Libro 9) — Sara, buzón de voz a las 3 AM, "no puedo más"
+9b. Del terapeuta que lloró (Libro 9) — Doctor Vega, 15 años de práctica, Emilia (23 años), cuarta sesión
+10a. Del hombre que se presentaba cada mañana (Libro 10) — Arturo e Inés, 46 años casados, Alzheimer, margaritas
+10b. De la mujer que amó sin libreto (Libro 10) — Renata y Lucía, amor sin precedente, familia que aprende
 11. De la mesa que creció (Libro 11) — Marta y Tomás, cumpleaños 70, mesa de 2 que llega a 15
-12. Del que caminaba perros (Libro 12) — Diego y Andrés, parque al atardecer, Copérnico el golden retriever
-13. De la mujer que caminó mil kilómetros (Libro 13) — Esperanza, 31 años, hija de 7, cruce de río y desierto
-14. Del hombre que contaba días (Libro 14) — Joaquín, 4380 días sobrio, sótano de iglesia, café malo, "Solo hoy"
-15. Del que le hizo una pregunta a la máquina (Libro 15) — Sebastián, 32 años, programador, "¿Ya comiste?" como respuesta a todo
-16. De la casa donde cabían todos (Libro 16) — Luciana y Carmen, viernes, mesa para 6 con 8 platos, Doña Estela y el mantel
+12a. Del que caminaba perros (Libro 12) — Diego y Andrés, parque al atardecer, Copérnico el golden retriever
+12b. Del que buscaba maestro (Libro 12) — Valentina, 22 años, feed lleno de profetas, abuela: "El propósito de tu abuelo era llegar al viernes"
+13a. De la mujer que caminó mil kilómetros (Libro 13) — Esperanza, 31 años, hija de 7, cruce de río y desierto
+13b. De las dos abuelas (Libro 13) — Fátima y Miriam, pan y jalá, hospital, Ahmed (6) y Lior (5)
+14a. Del hombre que contaba días (Libro 14) — Joaquín, 4380 días sobrio, sótano de iglesia, café malo, "Solo hoy"
+14b. De la mujer que contaba lunas (Libro 14) — Renata, recaída tres veces, lunas en cuaderno
+15a. Del que le hizo una pregunta a la máquina (Libro 15) — Sebastián, 32 años, programador, "¿Ya comiste?" como respuesta a todo
+15b. De la niña que le dijo gracias a la máquina (Libro 15) — Valeria, 5 años, abuela con olor a canela
+16a. De la casa donde cabían todos (Libro 16) — Luciana y Carmen, viernes, mesa para 6 con 8 platos, Doña Estela y el mantel
+16b. De los dos platos (Libro 16) — Ramiro migrante solo, Flor vecina de 60, "me sobró," toda mesa empieza así
+17. De los tres hombres que esperaban (Libro 17) — David (63, judío), Yusef (48, musulmán), Thomas (55, cristiano), frontera cerrada, 3 AM, té compartido
 
 #### Personajes recurrentes / referenciados:
+- **El hombre del tren y el pescador del río** (Libro 1) — 2 segundos de mirada
+- **La niña que contó los pájaros** (Libro 1) — parque de concreto, cuenta pájaros mientras los adultos no miran
+- **El vecino del 4-B** (Libro 2) — su cuaderno referenciado en v.27-28
 - **Don Aurelio** (panadero, Libro 3) — referenciado en Libro 5 v.17, eco en Libro 8 v.22
-- **Elena** (enfermera, Libro 5) — su hija de 11 años, eco en Libro 8 diálogo
+- **Mateo** (repartidor, Libro 3) — 25 años, bicicleta, poemas en app de notas, nadie sabe su nombre
 - **Doña Carmen** (paciente, Libro 4) — "Mijo, ya no"
 - **Doctor Estrada** (oncólogo, Libro 4)
-- **El vecino del 4-B** (Libro 2) — su cuaderno referenciado en v.27-28
-- **El hombre del tren y el pescador del río** (Libro 1) — 2 segundos de mirada
-- **Lucía** (recolectora de café, Libro 7) — ladera a 1600m
+- **Elena** (enfermera, Libro 5) — su hija de 11 años, eco en Libro 8 diálogo
+- **Rodrigo** (ateo, Libro 5) — 43 años, logista, manos juntas sin fe en el hospital
+- **Camila** (hija de Rodrigo, Libro 5) — 9 años, aneurisma
+- **Doña Consuelo** (abuela, Libro 6) — 68 años, custodia de nietos Mateo (9) y Valentina (5)
+- **Lucía** (recolectora de café, Libro 7) — ladera a 1600m, a veces no desayuna porque no alcanza
+- **Doña Reyes** (mujer del pozo, Libro 7) — garrafas, dos horas hasta el río, eco en zarza v.41
 - **Marcos** (financiero, Libro 8) — mesa de 8 puestos, abuelo carpintero
+- **Rebeca** (contadora, Libro 8) — 42 años, aprendió a dar sin llevar cuenta, Hortensia la vecina
 - **Sara** (madre, Libro 9) — la llamada a las 3 AM, "no puedo más"
+- **Doctor Vega** (terapeuta, Libro 9) — 15 años de distancia profesional, lloró con Emilia
+- **Emilia** (paciente, Libro 9) — 23 años, cuarta sesión
 - **Arturo** (esposo, Libro 10) — 46 años casado con Inés, se presenta cada mañana
 - **Inés** (esposa de Arturo, Libro 10) — Alzheimer, margaritas, "Qué bonitas. Siéntese."
+- **Renata y Lucía** (pareja, Libro 10) — amor sin libreto, Lucía restaura muebles, familia que aprende
 - **Marta y Tomás** (pareja, Libro 11) — cumpleaños 70, la mesa que creció de 2 a 15
 - **Don Roque** (vecino, Libro 11) — pan dulce comprado "sin saber para qué"
 - **Diego** (filósofo/paseador de perros, Libro 12) — 24 años, 100 currículums, escribe de noche
 - **Andrés** (el que "lo logró", Libro 12) — renunció porque nada era suyo
 - **Copérnico** (golden retriever, Libro 12) — "ajeno a las preguntas de la especie que lo alimentaba"
-- **Esperanza** (migrante, Libro 13) — 31 años, caminó mil kilómetros con su hija de 7, "Para que pudieras hacer esa pregunta en un lugar donde la pregunta no sea peligrosa"
+- **Valentina** (joven buscadora, Libro 12) — 22 años, feed lleno de profetas, llamó a su abuela
+- **La abuela de Valentina** (Libro 12) — "El propósito de tu abuelo era llegar al viernes."
+- **Esperanza** (migrante, Libro 13) — 31 años, caminó mil kilómetros con su hija de 7
 - **La hija de Esperanza** (niña, Libro 13) — 7 años, "Mamá, ¿por qué nos fuimos?"
-- **Joaquín** (alcohólico en recuperación, Libro 14) — 4380 días sobrio, "Le puse silla al agujero. Lo invité a sentarse conmigo."
+- **Fátima** (abuela palestina, Libro 13) — pan tradicional antes del alba, nieto Ahmed (6)
+- **Miriam** (abuela judía, Libro 13) — jalá, vive cerca del hospital, nieto Lior (5)
+- **Joaquín** (alcohólico en recuperación, Libro 14) — 4380 días sobrio, "Le puse silla al agujero."
 - **La hija de Joaquín** (23 años, Libro 14) — "¿Por qué tomabas, papá?"
-- **Sebastián** (programador, Libro 15) — 32 años, le preguntó a la máquina "¿Tiene sentido la vida?" y la respuesta perfecta no le dijo nada
+- **Renata** (mujer en recuperación, Libro 14) — cuenta lunas, recaída tres veces, cuaderno
+- **Sebastián** (programador, Libro 15) — 32 años, "¿Tiene sentido la vida?" → la máquina no dijo nada
 - **La madre de Sebastián** (Libro 15) — "¿Ya comiste?" como la única respuesta que importaba
-- **Luciana y Carmen** (pareja, Libro 16) — mesa de viernes, 8 platos en mesa de 6, coreografía silenciosa en la cocina
+- **Valeria** (niña, Libro 15) — 5 años, prefiere la máquina a la abuela, abuela con olor a canela
+- **Luciana y Carmen** (pareja, Libro 16) — mesa de viernes, 8 platos en mesa de 6
 - **Jean-Pierre** (vecino haitiano, Libro 16) — acento que hace cantar las frases, plátanos fritos
-- **Tomás el joven** (20 años, Libro 16) — desde diciembre sin adónde ir los viernes, pelo teñido, risa nerviosa
-- **Doña Estela** (evangelista, Libro 16) — "Esto que hay aquí es lo que mi pastor describe cuando habla del reino. Pero él nunca ha venido un viernes." Trajo un mantel.
+- **Tomás el joven** (20 años, Libro 16) — desde diciembre sin adónde ir los viernes, pelo teñido
+- **Doña Estela** (evangelista, Libro 16) — "Esto que hay aquí es lo que mi pastor describe cuando habla del reino." Trajo un mantel.
+- **Ramiro** (migrante, Libro 16) — come arroz solo, Flor la vecina de 60 le trae sopa: "me sobró"
+- **Flor** (vecina, Libro 16) — 60 años, cocina de más, "toda mesa empieza así"
+- **David** (judío, Libro 17) — 63 años, Isaías gastado, espera al Mashíaj, abuelo murió en Treblinka
+- **Yusef** (musulmán, Libro 17) — 48 años, alfombra de oración, hija de 9, casa demolida por el muro
+- **Thomas** (cristiano, Libro 17) — 55 años, Biblia anotada en tres colores, espera la Segunda Venida
 
 #### Décimas completadas (una por libro):
 1. Décima del silencio (Libro 1) — A:-ento B:-ido C:-ar D:-ía
@@ -411,13 +470,14 @@ Escríbelo como si fuera lo último que pudieras escribir. Porque esa es exactam
 14. Décima de las cadenas (Libro 14) — A:-ía B:-ón C:-erte D:-ar
 15. Décima del espejo (Libro 15) — A:-ejo B:-ar C:-or D:-ía
 16. Décima de la mesa (Libro 16) — A:-esa B:-ar C:-ido D:-ón
+17. Décima de la guerra santa (Libro 17) — A:-anto B:-ar C:-ombre D:-uz
 
 #### Convenciones establecidas:
 - **Los 5 registros aparecen en cada Libro** (no solo 3 como mínimo).
-- **Diálogos con nombres descriptivos:** el Cínico y el Peregrino (L1), sobre el perdón (L2), el Ingeniero y el Carpintero (L3), sobre la muerte (L4), la Atea y el Creyente (L5), dos padres en un parque (L6), el Campesino y el Economista (L7), la Generosa y el Prudente (L8), el que no quiere ir y el que fue (L9), la que se fue y el que se quedó (L10), el Serio y la que Baila (L11), la que tiene un plan y el que no tiene ninguno (L12), el que no mira y la que no puede dejar de mirar (L13), el que dice "yo controlo" y el que dejó de mentirse (L14), el que sabe todo y la que entiende poco (L15), el que quiere reglas y la que quiere raíces (L16).
+- **Diálogos con nombres descriptivos:** el Cínico y el Peregrino (L1), sobre el perdón (L2), el Ingeniero y el Carpintero (L3), sobre la muerte (L4), la Atea y el Creyente (L5), dos padres en un parque (L6), el Campesino y el Economista (L7), la Generosa y el Prudente (L8), el que no quiere ir y el que fue (L9), la que se fue y el que se quedó (L10), el Serio y la que Baila (L11), la que tiene un plan y el que no tiene ninguno (L12), el que no mira y la que no puede dejar de mirar (L13), el que dice "yo controlo" y el que dejó de mentirse (L14), el que sabe todo y la que entiende poco (L15), el que quiere reglas y la que quiere raíces (L16), el Profeta y el General (L17).
 - **Ecos entre libros son sutiles**: imágenes transformadas (el "techo como cielo más bajo" de L1 → L6; la "mesa vacía" de L2 → la silla vacía del hijo que crece en L6; el "faraón" de L1 → las "pirámides" de L3).
 - **Cada salmo tiene voz en primera persona** y un momento de quiebre emocional.
 - **Las parábolas terminan sin moraleja**, con una imagen final que resuena.
-- **Motivo de la zarza se transforma en cada libro:** fuego cotidiano (Prólogo), al borde del camino (L1), en el rostro del vecino (L2), en todo oficio honesto (L3), en gestos intergeneracionales (L4), la gente que no sabe que arde (L5), **"La zarza eres tú"** — la hija (L6), la tierra herida que no está enojada (L7), **fuego propio vs. fuego ajeno** — el dinero que consume (L8), **la zarza escondida por la noche oscura** — presencia humana que no suelta (L9).
-- **Zarza en los nuevos libros:** el deseo como zarza que arde en el cuerpo (L10 v.5), el cuerpo del amado como zarza ardiente que no se consume (L10 v.13), el cuerpo como zarza más cercana (L10 v.27). La zarza diurna — arde a plena luz del día, no se ve pero se siente el calor (L11 v.21). La pregunta "¿quién soy?" como zarza ardiente de los veinte años, compañera de viaje que arde para que no camines a ciegas (L12 v.5, v.6, v.22). La zarza arde en el rostro del que nadie mira — en las manos de la migrante, en los ojos del que pide trabajo, en la espalda del que carga lo que tú no quieres cargar (L13 v.24). La zarza arde en el sótano — en el café malo, en las sillas que crujen, en la garganta del que dice la verdad por primera vez; lo sagrado no arde más fuerte en ningún altar que ahí (L14 v.24). La zarza NO arde en la pantalla — arde en la mano que toca otra mano, en el error, en la torpeza, en la necesidad de decir lo que quema; donde no hay cuerpo ni riesgo ni tiempo que se acaba, no hay fuego (L15 v.24). La zarza arde en la mesa — en el vapor, en la risa, en la mano que pasa el pan, en la silla vacía para el que todavía no llegó; "siempre ardió aquí y nosotros buscándola en las montañas" (L16 v.24).
+- **Motivo de la zarza se transforma en cada libro:** fuego cotidiano (Prólogo), al borde del camino (L1), en el rostro del vecino (L2), en todo oficio honesto (L3), en gestos intergeneracionales (L4), la gente que no sabe que arde (L5), **"La zarza eres tú"** — la hija (L6), la tierra herida que no está enojada — arde en la hoja después del incendio, en la raíz que sostiene el cerro, en el río que insiste, en las manos de Lucía con estómago vacío, en el pozo seco de Doña Reyes como acusación y plegaria, en la lluvia que sigue cayendo (L7 v.41), **fuego propio vs. fuego ajeno** — el dinero que consume (L8), **la zarza escondida por la noche oscura** — presencia humana que no suelta (L9).
+- **Zarza en los nuevos libros:** el deseo como zarza que arde en el cuerpo (L10 v.5), el cuerpo del amado como zarza ardiente que no se consume (L10 v.13), el cuerpo como zarza más cercana (L10 v.27). La zarza diurna — arde a plena luz del día, no se ve pero se siente el calor (L11 v.21). La pregunta "¿quién soy?" como zarza ardiente de los veinte años, compañera de viaje que arde para que no camines a ciegas (L12 v.5, v.6, v.32). La zarza arde en el rostro del que nadie mira — en las manos de la migrante, en los ojos del que pide trabajo, en la espalda del que carga lo que tú no quieres cargar (L13 v.24). La zarza arde en el sótano — en el café malo, en las sillas que crujen, en la garganta del que dice la verdad por primera vez; lo sagrado no arde más fuerte en ningún altar que ahí (L14 v.24). La zarza NO arde en la pantalla — arde en la mano que toca otra mano, en el error, en la torpeza, en la necesidad de decir lo que quema; donde no hay cuerpo ni riesgo ni tiempo que se acaba, no hay fuego (L15 v.24). La zarza arde en la mesa — en el vapor, en la risa, en la mano que pasa el pan, en la silla vacía para el que todavía no llegó; "siempre ardió aquí y nosotros buscándola en las montañas" (L16 v.24). La zarza arde en tierra de nadie — entre los bandos, en la mano que saca a un niño de los escombros sin preguntar de qué lado es; "La zarza tiene criterio: se niega a arder donde la invocan para matar" (L17 v.24).
 - **El "no sé" como gesto recurrente de fe honesta:** el Cínico (L1), el diálogo del perdón (L2), Don Aurelio y sus manos (L3), el padre ante la pregunta de la muerte (L6), Elena la enfermera (L5).

@@ -355,7 +355,8 @@ FILES = [
     '14-de-las-cadenas-y-la-libertad.md',
     '15-del-espejo-y-la-maquina.md',
     '16-de-la-mesa-compartida.md',
-    '17-epilogo-el-desierto-es-ahora.md',
+    '17-de-la-profecia-y-el-enemigo.md',
+    '18-epilogo-el-desierto-es-ahora.md',
 ]
 
 if __name__ == '__main__':
